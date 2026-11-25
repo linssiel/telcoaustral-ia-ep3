@@ -1,4 +1,4 @@
-# 📡 Caso 2: TelcoAustral — Chatbot Inteligente Evaluación Parcial 3
+# 📡 Caso 2: Chatbot Inteligente - TelcoAustral
 
 > **Evaluación Parcial N° 3 — Arquitectura de Sistemas de Inteligencia Artificial (Duoc UC)**  
 > Solución empresarial distribuida para atención omnicanal (500.000 clientes) con **AWS SageMaker AI**, **FastAPI**, **RAG**, **RabbitMQ**, observabilidad en **Streamlit** y cumplimiento normativo (**Leyes N° 19.628 / N° 21.719** y **MITRE ATLAS**).
