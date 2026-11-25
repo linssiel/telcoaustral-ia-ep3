@@ -1,0 +1,1201 @@
+text,intent
+por favor como subo los minutos y datos de mi plan actual urgente,cambio_plan
+por favor esta caida la señal de telcoaustral en mi sector por favor,soporte_tecnico_internet
+disculpa solicito la desactivacion total de mis servicios porfa,baja_servicio
+buenas tardes la fibra optica anda super lenta no carga nada gracias,soporte_tecnico_internet
+"necesito ayuda, no corresponde el monto de mi factura hubo un error hoy dia",reclamo_cobro
+buenas tardes pague la cuenta ayer y todavia me sale deuda gracias,reclamo_cobro
+buenas tardes quiero terminar el contrato de fibra optica hoy dia,baja_servicio
+buenas tardes quiero cambiarme a un plan con mas gigas por favor,cambio_plan
+oye precios de bolsas roaming para estados unidos hoy dia,roaming_internacional
+buenas tardes como habilito los datos internacionales antes de volar hoy dia,roaming_internacional
+hola aparece un cargo raro que yo nunca contrate,reclamo_cobro
+me interesa contratar internet fibra optica al tiro,cambio_plan
+oye esta caida la señal de telcoaustral en mi sector gracias,soporte_tecnico_internet
+por favor como habilito los datos internacionales antes de volar urgente,roaming_internacional
+hola cuanto debo en mi plan hogar,consulta_boleta
+como subo los minutos y datos de mi plan actual,cambio_plan
+hola estoy sin señal en el wifi desde la mañana hoy dia,soporte_tecnico_internet
+por favor cuanto sale la bolsa de datos para usar el celu en brasil,roaming_internacional
+"necesito ayuda, reclamo por cobro indebido en servicios adicionales al tiro",reclamo_cobro
+"necesito ayuda, necesito activar el servicio internacional en mi linea gracias",roaming_internacional
+por favor como subo los minutos y datos de mi plan actual gracias,cambio_plan
+buenas tardes voy a europa y necesito tener internet en el telefono,roaming_internacional
+"necesito ayuda, aparece un cargo raro que yo nunca contrate por favor",reclamo_cobro
+quiero cambiarme a un plan con mas gigas porfa,cambio_plan
+se me cayo el internet de la casa hace rato y no vuelve por favor,soporte_tecnico_internet
+oye esta caida la señal de telcoaustral en mi sector por favor,soporte_tecnico_internet
+hola dar de baja mi linea telefonica definitivamente,baja_servicio
+hola cuanto me salio la cuenta del telefono este mes urgente,consulta_boleta
+"necesito ayuda, aparece un cargo raro que yo nunca contrate urgente",reclamo_cobro
+disculpa me estan cobrando de mas en la boleta de este mes,reclamo_cobro
+disculpa no me ha llegado la factura al correo,consulta_boleta
+dar de baja mi linea telefonica definitivamente por favor,baja_servicio
+disculpa me interesa contratar internet fibra optica gracias,cambio_plan
+por favor no tengo red en el telefono ni datos moviles gracias,soporte_tecnico_internet
+por favor me interesa contratar internet fibra optica urgente,cambio_plan
+buenas tardes quiero contratar un plan multimedia mas barato por favor,cambio_plan
+por favor se corta a cada rato la conexion del internet hogar gracias,soporte_tecnico_internet
+oye no corresponde el monto de mi factura hubo un error al tiro,reclamo_cobro
+oye viajo a argentina mañana como activo el roaming hoy dia,roaming_internacional
+por favor quiero desconocer un cobro en mi estado de cuenta al tiro,reclamo_cobro
+"necesito ayuda, precios de bolsas roaming para estados unidos al tiro",roaming_internacional
+hola me voy de la casa y necesito cortar el servicio,baja_servicio
+por favor reclamo por cobro indebido en servicios adicionales,reclamo_cobro
+"necesito ayuda, necesito que venga un tecnico a revisar el modem al tiro",soporte_tecnico_internet
+oye quiero renovar mi equipo y cambiar de plan por favor,cambio_plan
+disculpa hola necesito ver mi boleta de este mes porfa hoy dia,consulta_boleta
+buenas tardes cuanto debo en mi plan hogar hoy dia,consulta_boleta
+disculpa necesito cancelar mi plan movil no lo voy a usar mas gracias,baja_servicio
+hola no tengo red en el telefono ni datos moviles porfa,soporte_tecnico_internet
+"necesito ayuda, como habilito los datos internacionales antes de volar urgente",roaming_internacional
+buenas tardes necesito cancelar mi plan movil no lo voy a usar mas urgente,baja_servicio
+hola necesito que venga un tecnico a revisar el modem urgente,soporte_tecnico_internet
+oye se corta a cada rato la conexion del internet hogar,soporte_tecnico_internet
+hola estoy sin señal en el wifi desde la mañana,soporte_tecnico_internet
+disculpa quiero anular mi suscripcion con ustedes,baja_servicio
+buenas tardes quiero contratar un plan multimedia mas barato al tiro,cambio_plan
+me cobraron doble este mes quiero un reembolso hoy dia,reclamo_cobro
+hola tienen alguna promo para subir los megas de la fibra al tiro,cambio_plan
+buenas tardes necesito cancelar mi plan movil no lo voy a usar mas urgente,baja_servicio
+"necesito ayuda, me voy de la casa y necesito cortar el servicio al tiro",baja_servicio
+hola como habilito los datos internacionales antes de volar,roaming_internacional
+disculpa como renuncio al servicio de telcoaustral,baja_servicio
+"necesito ayuda, me pueden mandar el detalle de lo que me cobraron en la boleta urgente",consulta_boleta
+"necesito ayuda, me interesa contratar internet fibra optica urgente",cambio_plan
+me pueden mandar el detalle de lo que me cobraron en la boleta,consulta_boleta
+oye no corresponde el monto de mi factura hubo un error gracias,reclamo_cobro
+por favor cuanto sale la bolsa de datos para usar el celu en brasil por favor,roaming_internacional
+por favor me pueden mandar el detalle de lo que me cobraron en la boleta porfa,consulta_boleta
+buenas tardes cuanto sale la bolsa de datos para usar el celu en brasil hoy dia,roaming_internacional
+hola me estan cobrando de mas en la boleta de este mes hoy dia,reclamo_cobro
+solicito la desactivacion total de mis servicios porfa,baja_servicio
+por favor mi plan incluye roaming libre en sudamerica hoy dia,roaming_internacional
+"necesito ayuda, necesito activar el servicio internacional en mi linea gracias",roaming_internacional
+hola necesito descargar la boleta con mi rut urgente,consulta_boleta
+oye donde pago mi cuenta atrasada de internet porfa,consulta_boleta
+oye me estan cobrando de mas en la boleta de este mes hoy dia,reclamo_cobro
+por favor me subieron el plan sin avisarme y me cobraron mas hoy dia,reclamo_cobro
+oye como subo los minutos y datos de mi plan actual al tiro,cambio_plan
+"necesito ayuda, necesito descargar la boleta con mi rut por favor",consulta_boleta
+por favor aparece un cargo raro que yo nunca contrate al tiro,reclamo_cobro
+hola quiero terminar el contrato de fibra optica al tiro,baja_servicio
+hola como subo los minutos y datos de mi plan actual gracias,cambio_plan
+oye no corresponde el monto de mi factura hubo un error hoy dia,reclamo_cobro
+oye necesito cancelar mi plan movil no lo voy a usar mas,baja_servicio
+buenas tardes tienen alguna promo para subir los megas de la fibra urgente,cambio_plan
+"necesito ayuda, pague la cuenta ayer y todavia me sale deuda al tiro",reclamo_cobro
+"necesito ayuda, no corresponde el monto de mi factura hubo un error al tiro",reclamo_cobro
+buenas tardes donde pago mi cuenta atrasada de internet,consulta_boleta
+disculpa busco mejorar mi plan hogar con television al tiro,cambio_plan
+por favor cuanto sale la bolsa de datos para usar el celu en brasil hoy dia,roaming_internacional
+necesito activar el servicio internacional en mi linea,roaming_internacional
+solicito la desactivacion total de mis servicios,baja_servicio
+por favor me cobraron doble este mes quiero un reembolso urgente,reclamo_cobro
+"necesito ayuda, necesito activar el servicio internacional en mi linea porfa",roaming_internacional
+solicito la desactivacion total de mis servicios hoy dia,baja_servicio
+oye aparece un cargo raro que yo nunca contrate por favor,reclamo_cobro
+oye no me ha llegado la factura al correo hoy dia,consulta_boleta
+viajo a argentina mañana como activo el roaming urgente,roaming_internacional
+disculpa reclamo por cobro indebido en servicios adicionales hoy dia,reclamo_cobro
+cuanto sale la bolsa de datos para usar el celu en brasil por favor,roaming_internacional
+disculpa cuanto debo en mi plan hogar al tiro,consulta_boleta
+"necesito ayuda, busco mejorar mi plan hogar con television porfa",cambio_plan
+disculpa como habilito los datos internacionales antes de volar al tiro,roaming_internacional
+"necesito ayuda, viajo a argentina mañana como activo el roaming gracias",roaming_internacional
+por favor dar de baja mi linea telefonica definitivamente porfa,baja_servicio
+"necesito ayuda, necesito que venga un tecnico a revisar el modem por favor",soporte_tecnico_internet
+disculpa como habilito los datos internacionales antes de volar al tiro,roaming_internacional
+por favor busco mejorar mi plan hogar con television,cambio_plan
+"necesito ayuda, necesito portar un numero a telcoaustral porfa",cambio_plan
+por favor no me ha llegado la factura al correo por favor,consulta_boleta
+oye me voy de la casa y necesito cortar el servicio hoy dia,baja_servicio
+disculpa no tengo red en el telefono ni datos moviles hoy dia,soporte_tecnico_internet
+por favor no me ha llegado la factura al correo gracias,consulta_boleta
+por favor esta caida la señal de telcoaustral en mi sector urgente,soporte_tecnico_internet
+"necesito ayuda, no me funciona el roaming estando fuera de chile al tiro",roaming_internacional
+por favor como renuncio al servicio de telcoaustral urgente,baja_servicio
+"necesito ayuda, no corresponde el monto de mi factura hubo un error al tiro",reclamo_cobro
+buenas tardes quiero contratar un plan multimedia mas barato porfa,cambio_plan
+"necesito ayuda, se me cayo el internet de la casa hace rato y no vuelve",soporte_tecnico_internet
+por favor no me ha llegado la factura al correo,consulta_boleta
+hola quiero dar de baja el internet hogar ahora ya al tiro,baja_servicio
+oye viajo a argentina mañana como activo el roaming urgente,roaming_internacional
+buenas tardes estoy sin señal en el wifi desde la mañana hoy dia,soporte_tecnico_internet
+por favor se corta a cada rato la conexion del internet hogar hoy dia,soporte_tecnico_internet
+oye necesito cancelar mi plan movil no lo voy a usar mas al tiro,baja_servicio
+hola me subieron el plan sin avisarme y me cobraron mas urgente,reclamo_cobro
+por favor necesito activar el servicio internacional en mi linea por favor,roaming_internacional
+oye como subo los minutos y datos de mi plan actual al tiro,cambio_plan
+buenas tardes quiero desconocer un cobro en mi estado de cuenta al tiro,reclamo_cobro
+hola cuanto debo en mi plan hogar por favor,consulta_boleta
+buenas tardes no corresponde el monto de mi factura hubo un error al tiro,reclamo_cobro
+buenas tardes estoy sin señal en el wifi desde la mañana,soporte_tecnico_internet
+disculpa me interesa contratar internet fibra optica urgente,cambio_plan
+disculpa me voy de la casa y necesito cortar el servicio urgente,baja_servicio
+"necesito ayuda, como habilito los datos internacionales antes de volar urgente",roaming_internacional
+oye aparece un cargo raro que yo nunca contrate al tiro,reclamo_cobro
+"necesito ayuda, el router tiene una luz roja prendida que hago urgente",soporte_tecnico_internet
+me cobraron doble este mes quiero un reembolso al tiro,reclamo_cobro
+oye como habilito los datos internacionales antes de volar hoy dia,roaming_internacional
+oye necesito que venga un tecnico a revisar el modem al tiro,soporte_tecnico_internet
+buenas tardes como renuncio al servicio de telcoaustral,baja_servicio
+por favor necesito portar un numero a telcoaustral urgente,cambio_plan
+quiero desconocer un cobro en mi estado de cuenta hoy dia,reclamo_cobro
+hola necesito descargar la boleta con mi rut al tiro,consulta_boleta
+disculpa solicito la desactivacion total de mis servicios porfa,baja_servicio
+buenas tardes no corresponde el monto de mi factura hubo un error gracias,reclamo_cobro
+hola no me funciona el roaming estando fuera de chile,roaming_internacional
+disculpa quiero saber la fecha de vencimiento de mi boleta,consulta_boleta
+oye necesito activar el servicio internacional en mi linea porfa,roaming_internacional
+"necesito ayuda, el router tiene una luz roja prendida que hago por favor",soporte_tecnico_internet
+oye me cobraron doble este mes quiero un reembolso urgente,reclamo_cobro
+como subo los minutos y datos de mi plan actual porfa,cambio_plan
+oye tienen alguna promo para subir los megas de la fibra por favor,cambio_plan
+por favor solicito la desactivacion total de mis servicios por favor,baja_servicio
+hola no me funciona el roaming estando fuera de chile al tiro,roaming_internacional
+hola no tengo red en el telefono ni datos moviles hoy dia,soporte_tecnico_internet
+buenas tardes quiero desconocer un cobro en mi estado de cuenta,reclamo_cobro
+quiero contratar un plan multimedia mas barato por favor,cambio_plan
+disculpa donde pago mi cuenta atrasada de internet por favor,consulta_boleta
+cuanto debo en mi plan hogar al tiro,consulta_boleta
+buenas tardes pague la cuenta ayer y todavia me sale deuda gracias,reclamo_cobro
+cuanto sale la bolsa de datos para usar el celu en brasil por favor,roaming_internacional
+oye aparece un cargo raro que yo nunca contrate hoy dia,reclamo_cobro
+por favor cuanto debo en mi plan hogar porfa,consulta_boleta
+buenas tardes quiero contratar un plan multimedia mas barato hoy dia,cambio_plan
+disculpa tienen alguna promo para subir los megas de la fibra por favor,cambio_plan
+disculpa quiero saber la fecha de vencimiento de mi boleta porfa,consulta_boleta
+hola quiero terminar el contrato de fibra optica porfa,baja_servicio
+hola quiero renovar mi equipo y cambiar de plan al tiro,cambio_plan
+buenas tardes necesito que venga un tecnico a revisar el modem hoy dia,soporte_tecnico_internet
+por favor quiero saber la fecha de vencimiento de mi boleta gracias,consulta_boleta
+disculpa necesito cancelar mi plan movil no lo voy a usar mas al tiro,baja_servicio
+"necesito ayuda, se corta a cada rato la conexion del internet hogar por favor",soporte_tecnico_internet
+buenas tardes quiero desconocer un cobro en mi estado de cuenta hoy dia,reclamo_cobro
+disculpa la fibra optica anda super lenta no carga nada urgente,soporte_tecnico_internet
+busco mejorar mi plan hogar con television urgente,cambio_plan
+por favor reclamo por cobro indebido en servicios adicionales al tiro,reclamo_cobro
+no me funciona el roaming estando fuera de chile porfa,roaming_internacional
+buenas tardes me subieron el plan sin avisarme y me cobraron mas urgente,reclamo_cobro
+disculpa se corta a cada rato la conexion del internet hogar por favor,soporte_tecnico_internet
+"necesito ayuda, pague la cuenta ayer y todavia me sale deuda",reclamo_cobro
+oye me cobraron doble este mes quiero un reembolso gracias,reclamo_cobro
+hola quiero desconocer un cobro en mi estado de cuenta al tiro,reclamo_cobro
+la fibra optica anda super lenta no carga nada gracias,soporte_tecnico_internet
+buenas tardes quiero contratar un plan multimedia mas barato,cambio_plan
+la fibra optica anda super lenta no carga nada por favor,soporte_tecnico_internet
+quiero dar de baja el internet hogar ahora ya urgente,baja_servicio
+buenas tardes cuanto debo en mi plan hogar urgente,consulta_boleta
+buenas tardes precios de bolsas roaming para estados unidos,roaming_internacional
+"necesito ayuda, tienen alguna promo para subir los megas de la fibra hoy dia",cambio_plan
+oye como subo los minutos y datos de mi plan actual urgente,cambio_plan
+disculpa voy a europa y necesito tener internet en el telefono hoy dia,roaming_internacional
+por favor pague la cuenta ayer y todavia me sale deuda urgente,reclamo_cobro
+por favor estoy sin señal en el wifi desde la mañana porfa,soporte_tecnico_internet
+oye donde pago mi cuenta atrasada de internet porfa,consulta_boleta
+disculpa donde pago mi cuenta atrasada de internet por favor,consulta_boleta
+hola quiero terminar el contrato de fibra optica gracias,baja_servicio
+por favor hola necesito ver mi boleta de este mes porfa porfa,consulta_boleta
+"necesito ayuda, necesito descargar la boleta con mi rut porfa",consulta_boleta
+"necesito ayuda, quiero terminar el contrato de fibra optica",baja_servicio
+oye no corresponde el monto de mi factura hubo un error gracias,reclamo_cobro
+la fibra optica anda super lenta no carga nada urgente,soporte_tecnico_internet
+oye voy a europa y necesito tener internet en el telefono hoy dia,roaming_internacional
+por favor quiero renovar mi equipo y cambiar de plan por favor,cambio_plan
+por favor no me funciona el roaming estando fuera de chile,roaming_internacional
+hola aparece un cargo raro que yo nunca contrate porfa,reclamo_cobro
+buenas tardes me interesa contratar internet fibra optica por favor,cambio_plan
+buenas tardes como habilito los datos internacionales antes de volar urgente,roaming_internacional
+buenas tardes solicito la desactivacion total de mis servicios gracias,baja_servicio
+hola me interesa contratar internet fibra optica al tiro,cambio_plan
+oye necesito portar un numero a telcoaustral al tiro,cambio_plan
+"necesito ayuda, viajo a argentina mañana como activo el roaming",roaming_internacional
+disculpa estoy sin señal en el wifi desde la mañana por favor,soporte_tecnico_internet
+por favor me cobraron doble este mes quiero un reembolso por favor,reclamo_cobro
+oye reclamo por cobro indebido en servicios adicionales por favor,reclamo_cobro
+por favor necesito que venga un tecnico a revisar el modem gracias,soporte_tecnico_internet
+buenas tardes estoy sin señal en el wifi desde la mañana al tiro,soporte_tecnico_internet
+buenas tardes se me cayo el internet de la casa hace rato y no vuelve porfa,soporte_tecnico_internet
+por favor aparece un cargo raro que yo nunca contrate al tiro,reclamo_cobro
+oye necesito descargar la boleta con mi rut hoy dia,consulta_boleta
+oye necesito portar un numero a telcoaustral porfa,cambio_plan
+buenas tardes no tengo red en el telefono ni datos moviles gracias,soporte_tecnico_internet
+por favor tienen alguna promo para subir los megas de la fibra al tiro,cambio_plan
+oye hola necesito ver mi boleta de este mes porfa,consulta_boleta
+buenas tardes cuanto debo en mi plan hogar gracias,consulta_boleta
+buenas tardes precios de bolsas roaming para estados unidos al tiro,roaming_internacional
+por favor busco mejorar mi plan hogar con television al tiro,cambio_plan
+por favor me voy de la casa y necesito cortar el servicio urgente,baja_servicio
+oye precios de bolsas roaming para estados unidos hoy dia,roaming_internacional
+hola necesito portar un numero a telcoaustral,cambio_plan
+disculpa mi plan incluye roaming libre en sudamerica,roaming_internacional
+por favor viajo a argentina mañana como activo el roaming al tiro,roaming_internacional
+oye como habilito los datos internacionales antes de volar al tiro,roaming_internacional
+hola tienen alguna promo para subir los megas de la fibra al tiro,cambio_plan
+por favor estoy sin señal en el wifi desde la mañana porfa,soporte_tecnico_internet
+oye quiero desconocer un cobro en mi estado de cuenta urgente,reclamo_cobro
+buenas tardes necesito activar el servicio internacional en mi linea porfa,roaming_internacional
+"necesito ayuda, necesito portar un numero a telcoaustral por favor",cambio_plan
+solicito la desactivacion total de mis servicios,baja_servicio
+reclamo por cobro indebido en servicios adicionales urgente,reclamo_cobro
+esta caida la señal de telcoaustral en mi sector hoy dia,soporte_tecnico_internet
+buenas tardes se corta a cada rato la conexion del internet hogar gracias,soporte_tecnico_internet
+me cobraron doble este mes quiero un reembolso gracias,reclamo_cobro
+buenas tardes aparece un cargo raro que yo nunca contrate porfa,reclamo_cobro
+por favor cuanto me salio la cuenta del telefono este mes urgente,consulta_boleta
+por favor viajo a argentina mañana como activo el roaming,roaming_internacional
+buenas tardes necesito que venga un tecnico a revisar el modem gracias,soporte_tecnico_internet
+oye quiero renovar mi equipo y cambiar de plan urgente,cambio_plan
+"necesito ayuda, como habilito los datos internacionales antes de volar al tiro",roaming_internacional
+hola no me funciona el roaming estando fuera de chile hoy dia,roaming_internacional
+buenas tardes quiero renovar mi equipo y cambiar de plan hoy dia,cambio_plan
+"necesito ayuda, pague la cuenta ayer y todavia me sale deuda",reclamo_cobro
+hola viajo a argentina mañana como activo el roaming gracias,roaming_internacional
+se corta a cada rato la conexion del internet hogar,soporte_tecnico_internet
+por favor quiero renovar mi equipo y cambiar de plan por favor,cambio_plan
+no me funciona el roaming estando fuera de chile porfa,roaming_internacional
+oye busco mejorar mi plan hogar con television urgente,cambio_plan
+aparece un cargo raro que yo nunca contrate urgente,reclamo_cobro
+oye tienen alguna promo para subir los megas de la fibra hoy dia,cambio_plan
+buenas tardes como renuncio al servicio de telcoaustral hoy dia,baja_servicio
+hola hola necesito ver mi boleta de este mes porfa,consulta_boleta
+por favor reclamo por cobro indebido en servicios adicionales,reclamo_cobro
+viajo a argentina mañana como activo el roaming urgente,roaming_internacional
+buenas tardes quiero dar de baja el internet hogar ahora ya gracias,baja_servicio
+hola no tengo red en el telefono ni datos moviles por favor,soporte_tecnico_internet
+cuanto debo en mi plan hogar gracias,consulta_boleta
+hola se me cayo el internet de la casa hace rato y no vuelve gracias,soporte_tecnico_internet
+oye necesito cancelar mi plan movil no lo voy a usar mas por favor,baja_servicio
+quiero renovar mi equipo y cambiar de plan hoy dia,cambio_plan
+disculpa voy a europa y necesito tener internet en el telefono hoy dia,roaming_internacional
+me interesa contratar internet fibra optica,cambio_plan
+buenas tardes quiero renovar mi equipo y cambiar de plan urgente,cambio_plan
+disculpa quiero desconocer un cobro en mi estado de cuenta al tiro,reclamo_cobro
+disculpa precios de bolsas roaming para estados unidos al tiro,roaming_internacional
+disculpa estoy sin señal en el wifi desde la mañana hoy dia,soporte_tecnico_internet
+hola necesito activar el servicio internacional en mi linea gracias,roaming_internacional
+hola donde pago mi cuenta atrasada de internet urgente,consulta_boleta
+disculpa quiero contratar un plan multimedia mas barato gracias,cambio_plan
+"necesito ayuda, quiero cambiarme a un plan con mas gigas hoy dia",cambio_plan
+oye no corresponde el monto de mi factura hubo un error urgente,reclamo_cobro
+buenas tardes necesito portar un numero a telcoaustral gracias,cambio_plan
+buenas tardes cuanto me salio la cuenta del telefono este mes gracias,consulta_boleta
+oye cuanto sale la bolsa de datos para usar el celu en brasil urgente,roaming_internacional
+hola no corresponde el monto de mi factura hubo un error gracias,reclamo_cobro
+buenas tardes necesito portar un numero a telcoaustral gracias,cambio_plan
+necesito que venga un tecnico a revisar el modem al tiro,soporte_tecnico_internet
+disculpa cuanto debo en mi plan hogar por favor,consulta_boleta
+hola mi plan incluye roaming libre en sudamerica al tiro,roaming_internacional
+necesito activar el servicio internacional en mi linea,roaming_internacional
+buenas tardes quiero anular mi suscripcion con ustedes,baja_servicio
+oye reclamo por cobro indebido en servicios adicionales por favor,reclamo_cobro
+disculpa necesito que venga un tecnico a revisar el modem porfa,soporte_tecnico_internet
+por favor voy a europa y necesito tener internet en el telefono,roaming_internacional
+oye reclamo por cobro indebido en servicios adicionales gracias,reclamo_cobro
+hola me cobraron doble este mes quiero un reembolso urgente,reclamo_cobro
+oye reclamo por cobro indebido en servicios adicionales por favor,reclamo_cobro
+disculpa tienen alguna promo para subir los megas de la fibra por favor,cambio_plan
+buenas tardes la fibra optica anda super lenta no carga nada por favor,soporte_tecnico_internet
+buenas tardes necesito portar un numero a telcoaustral por favor,cambio_plan
+hola el router tiene una luz roja prendida que hago al tiro,soporte_tecnico_internet
+hola me voy de la casa y necesito cortar el servicio,baja_servicio
+"necesito ayuda, quiero cambiarme a un plan con mas gigas",cambio_plan
+"necesito ayuda, quiero dar de baja el internet hogar ahora ya al tiro",baja_servicio
+me estan cobrando de mas en la boleta de este mes,reclamo_cobro
+disculpa quiero dar de baja el internet hogar ahora ya al tiro,baja_servicio
+hola hola necesito ver mi boleta de este mes porfa urgente,consulta_boleta
+cuanto me salio la cuenta del telefono este mes al tiro,consulta_boleta
+por favor cuanto me salio la cuenta del telefono este mes urgente,consulta_boleta
+"necesito ayuda, la fibra optica anda super lenta no carga nada por favor",soporte_tecnico_internet
+por favor donde pago mi cuenta atrasada de internet,consulta_boleta
+"necesito ayuda, necesito que venga un tecnico a revisar el modem por favor",soporte_tecnico_internet
+"necesito ayuda, donde pago mi cuenta atrasada de internet gracias",consulta_boleta
+oye no tengo red en el telefono ni datos moviles por favor,soporte_tecnico_internet
+"necesito ayuda, me pueden mandar el detalle de lo que me cobraron en la boleta hoy dia",consulta_boleta
+me voy de la casa y necesito cortar el servicio al tiro,baja_servicio
+hola quiero renovar mi equipo y cambiar de plan porfa,cambio_plan
+"necesito ayuda, me pueden mandar el detalle de lo que me cobraron en la boleta por favor",consulta_boleta
+oye donde pago mi cuenta atrasada de internet por favor,consulta_boleta
+"necesito ayuda, me voy de la casa y necesito cortar el servicio",baja_servicio
+oye quiero desconocer un cobro en mi estado de cuenta hoy dia,reclamo_cobro
+hola necesito activar el servicio internacional en mi linea,roaming_internacional
+por favor la fibra optica anda super lenta no carga nada gracias,soporte_tecnico_internet
+oye me voy de la casa y necesito cortar el servicio porfa,baja_servicio
+por favor dar de baja mi linea telefonica definitivamente,baja_servicio
+oye cuanto sale la bolsa de datos para usar el celu en brasil,roaming_internacional
+quiero renovar mi equipo y cambiar de plan gracias,cambio_plan
+por favor pague la cuenta ayer y todavia me sale deuda hoy dia,reclamo_cobro
+disculpa necesito activar el servicio internacional en mi linea urgente,roaming_internacional
+disculpa necesito descargar la boleta con mi rut por favor,consulta_boleta
+disculpa viajo a argentina mañana como activo el roaming por favor,roaming_internacional
+disculpa cuanto sale la bolsa de datos para usar el celu en brasil,roaming_internacional
+por favor necesito portar un numero a telcoaustral,cambio_plan
+oye hola necesito ver mi boleta de este mes porfa porfa,consulta_boleta
+"necesito ayuda, necesito cancelar mi plan movil no lo voy a usar mas",baja_servicio
+hola reclamo por cobro indebido en servicios adicionales hoy dia,reclamo_cobro
+necesito que venga un tecnico a revisar el modem gracias,soporte_tecnico_internet
+por favor se corta a cada rato la conexion del internet hogar urgente,soporte_tecnico_internet
+"necesito ayuda, me voy de la casa y necesito cortar el servicio al tiro",baja_servicio
+oye solicito la desactivacion total de mis servicios urgente,baja_servicio
+por favor no me funciona el roaming estando fuera de chile hoy dia,roaming_internacional
+quiero anular mi suscripcion con ustedes hoy dia,baja_servicio
+oye estoy sin señal en el wifi desde la mañana gracias,soporte_tecnico_internet
+disculpa no me ha llegado la factura al correo hoy dia,consulta_boleta
+hola me pueden mandar el detalle de lo que me cobraron en la boleta al tiro,consulta_boleta
+disculpa me cobraron doble este mes quiero un reembolso por favor,reclamo_cobro
+oye no me funciona el roaming estando fuera de chile urgente,roaming_internacional
+oye cuanto debo en mi plan hogar urgente,consulta_boleta
+necesito que venga un tecnico a revisar el modem porfa,soporte_tecnico_internet
+"necesito ayuda, quiero anular mi suscripcion con ustedes",baja_servicio
+por favor quiero renovar mi equipo y cambiar de plan,cambio_plan
+"necesito ayuda, aparece un cargo raro que yo nunca contrate al tiro",reclamo_cobro
+disculpa como habilito los datos internacionales antes de volar por favor,roaming_internacional
+hola no tengo red en el telefono ni datos moviles gracias,soporte_tecnico_internet
+cuanto me salio la cuenta del telefono este mes porfa,consulta_boleta
+"necesito ayuda, busco mejorar mi plan hogar con television hoy dia",cambio_plan
+oye quiero anular mi suscripcion con ustedes,baja_servicio
+disculpa necesito descargar la boleta con mi rut urgente,consulta_boleta
+hola quiero desconocer un cobro en mi estado de cuenta porfa,reclamo_cobro
+hola cuanto me salio la cuenta del telefono este mes,consulta_boleta
+por favor se me cayo el internet de la casa hace rato y no vuelve hoy dia,soporte_tecnico_internet
+buenas tardes quiero saber la fecha de vencimiento de mi boleta,consulta_boleta
+disculpa necesito activar el servicio internacional en mi linea gracias,roaming_internacional
+hola necesito descargar la boleta con mi rut hoy dia,consulta_boleta
+oye quiero anular mi suscripcion con ustedes porfa,baja_servicio
+disculpa quiero terminar el contrato de fibra optica gracias,baja_servicio
+disculpa necesito que venga un tecnico a revisar el modem,soporte_tecnico_internet
+por favor donde pago mi cuenta atrasada de internet gracias,consulta_boleta
+buenas tardes quiero terminar el contrato de fibra optica al tiro,baja_servicio
+buenas tardes necesito portar un numero a telcoaustral porfa,cambio_plan
+oye el router tiene una luz roja prendida que hago gracias,soporte_tecnico_internet
+hola quiero anular mi suscripcion con ustedes porfa,baja_servicio
+por favor el router tiene una luz roja prendida que hago gracias,soporte_tecnico_internet
+buenas tardes la fibra optica anda super lenta no carga nada por favor,soporte_tecnico_internet
+oye necesito descargar la boleta con mi rut,consulta_boleta
+disculpa viajo a argentina mañana como activo el roaming,roaming_internacional
+disculpa me cobraron doble este mes quiero un reembolso al tiro,reclamo_cobro
+hola quiero terminar el contrato de fibra optica al tiro,baja_servicio
+oye el router tiene una luz roja prendida que hago,soporte_tecnico_internet
+por favor quiero terminar el contrato de fibra optica al tiro,baja_servicio
+oye me subieron el plan sin avisarme y me cobraron mas por favor,reclamo_cobro
+quiero dar de baja el internet hogar ahora ya porfa,baja_servicio
+"necesito ayuda, aparece un cargo raro que yo nunca contrate al tiro",reclamo_cobro
+"necesito ayuda, necesito descargar la boleta con mi rut por favor",consulta_boleta
+buenas tardes como subo los minutos y datos de mi plan actual,cambio_plan
+"necesito ayuda, cuanto debo en mi plan hogar",consulta_boleta
+"necesito ayuda, cuanto debo en mi plan hogar",consulta_boleta
+oye no me ha llegado la factura al correo al tiro,consulta_boleta
+oye quiero contratar un plan multimedia mas barato gracias,cambio_plan
+"necesito ayuda, busco mejorar mi plan hogar con television al tiro",cambio_plan
+oye quiero terminar el contrato de fibra optica hoy dia,baja_servicio
+hola no me ha llegado la factura al correo gracias,consulta_boleta
+disculpa como habilito los datos internacionales antes de volar gracias,roaming_internacional
+hola quiero cambiarme a un plan con mas gigas por favor,cambio_plan
+disculpa pague la cuenta ayer y todavia me sale deuda porfa,reclamo_cobro
+no me ha llegado la factura al correo urgente,consulta_boleta
+por favor pague la cuenta ayer y todavia me sale deuda hoy dia,reclamo_cobro
+por favor quiero dar de baja el internet hogar ahora ya al tiro,baja_servicio
+por favor quiero renovar mi equipo y cambiar de plan gracias,cambio_plan
+oye me pueden mandar el detalle de lo que me cobraron en la boleta gracias,consulta_boleta
+reclamo por cobro indebido en servicios adicionales al tiro,reclamo_cobro
+hola como habilito los datos internacionales antes de volar porfa,roaming_internacional
+buenas tardes tienen alguna promo para subir los megas de la fibra porfa,cambio_plan
+oye como subo los minutos y datos de mi plan actual porfa,cambio_plan
+oye quiero dar de baja el internet hogar ahora ya hoy dia,baja_servicio
+oye donde pago mi cuenta atrasada de internet al tiro,consulta_boleta
+oye me interesa contratar internet fibra optica al tiro,cambio_plan
+disculpa pague la cuenta ayer y todavia me sale deuda hoy dia,reclamo_cobro
+hola quiero anular mi suscripcion con ustedes al tiro,baja_servicio
+no me ha llegado la factura al correo porfa,consulta_boleta
+"necesito ayuda, me voy de la casa y necesito cortar el servicio hoy dia",baja_servicio
+oye necesito cancelar mi plan movil no lo voy a usar mas por favor,baja_servicio
+por favor necesito cancelar mi plan movil no lo voy a usar mas al tiro,baja_servicio
+disculpa no corresponde el monto de mi factura hubo un error por favor,reclamo_cobro
+mi plan incluye roaming libre en sudamerica hoy dia,roaming_internacional
+oye quiero terminar el contrato de fibra optica porfa,baja_servicio
+buenas tardes se me cayo el internet de la casa hace rato y no vuelve,soporte_tecnico_internet
+por favor necesito activar el servicio internacional en mi linea gracias,roaming_internacional
+hola quiero renovar mi equipo y cambiar de plan hoy dia,cambio_plan
+me voy de la casa y necesito cortar el servicio porfa,baja_servicio
+por favor me interesa contratar internet fibra optica gracias,cambio_plan
+disculpa mi plan incluye roaming libre en sudamerica hoy dia,roaming_internacional
+"necesito ayuda, me voy de la casa y necesito cortar el servicio",baja_servicio
+"necesito ayuda, busco mejorar mi plan hogar con television al tiro",cambio_plan
+me estan cobrando de mas en la boleta de este mes hoy dia,reclamo_cobro
+hola necesito cancelar mi plan movil no lo voy a usar mas al tiro,baja_servicio
+hola quiero cambiarme a un plan con mas gigas,cambio_plan
+oye me pueden mandar el detalle de lo que me cobraron en la boleta porfa,consulta_boleta
+por favor solicito la desactivacion total de mis servicios gracias,baja_servicio
+disculpa quiero dar de baja el internet hogar ahora ya hoy dia,baja_servicio
+oye como renuncio al servicio de telcoaustral hoy dia,baja_servicio
+la fibra optica anda super lenta no carga nada porfa,soporte_tecnico_internet
+"necesito ayuda, no me funciona el roaming estando fuera de chile",roaming_internacional
+"necesito ayuda, tienen alguna promo para subir los megas de la fibra hoy dia",cambio_plan
+oye se me cayo el internet de la casa hace rato y no vuelve gracias,soporte_tecnico_internet
+necesito activar el servicio internacional en mi linea porfa,roaming_internacional
+oye no corresponde el monto de mi factura hubo un error,reclamo_cobro
+por favor me cobraron doble este mes quiero un reembolso porfa,reclamo_cobro
+disculpa precios de bolsas roaming para estados unidos por favor,roaming_internacional
+oye se me cayo el internet de la casa hace rato y no vuelve urgente,soporte_tecnico_internet
+disculpa la fibra optica anda super lenta no carga nada al tiro,soporte_tecnico_internet
+buenas tardes quiero anular mi suscripcion con ustedes,baja_servicio
+disculpa pague la cuenta ayer y todavia me sale deuda hoy dia,reclamo_cobro
+buenas tardes necesito descargar la boleta con mi rut urgente,consulta_boleta
+hola como renuncio al servicio de telcoaustral hoy dia,baja_servicio
+hola quiero renovar mi equipo y cambiar de plan gracias,cambio_plan
+por favor necesito que venga un tecnico a revisar el modem al tiro,soporte_tecnico_internet
+hola voy a europa y necesito tener internet en el telefono por favor,roaming_internacional
+"necesito ayuda, se me cayo el internet de la casa hace rato y no vuelve al tiro",soporte_tecnico_internet
+buenas tardes me cobraron doble este mes quiero un reembolso gracias,reclamo_cobro
+oye quiero terminar el contrato de fibra optica,baja_servicio
+oye se me cayo el internet de la casa hace rato y no vuelve por favor,soporte_tecnico_internet
+"necesito ayuda, como renuncio al servicio de telcoaustral porfa",baja_servicio
+"necesito ayuda, voy a europa y necesito tener internet en el telefono por favor",roaming_internacional
+por favor voy a europa y necesito tener internet en el telefono urgente,roaming_internacional
+cuanto debo en mi plan hogar gracias,consulta_boleta
+por favor quiero cambiarme a un plan con mas gigas por favor,cambio_plan
+por favor me interesa contratar internet fibra optica gracias,cambio_plan
+"necesito ayuda, me cobraron doble este mes quiero un reembolso al tiro",reclamo_cobro
+"necesito ayuda, voy a europa y necesito tener internet en el telefono hoy dia",roaming_internacional
+disculpa necesito descargar la boleta con mi rut,consulta_boleta
+oye se me cayo el internet de la casa hace rato y no vuelve hoy dia,soporte_tecnico_internet
+disculpa quiero terminar el contrato de fibra optica hoy dia,baja_servicio
+por favor quiero desconocer un cobro en mi estado de cuenta al tiro,reclamo_cobro
+por favor necesito que venga un tecnico a revisar el modem porfa,soporte_tecnico_internet
+por favor solicito la desactivacion total de mis servicios por favor,baja_servicio
+buenas tardes quiero cambiarme a un plan con mas gigas al tiro,cambio_plan
+oye me estan cobrando de mas en la boleta de este mes porfa,reclamo_cobro
+por favor como renuncio al servicio de telcoaustral al tiro,baja_servicio
+oye no me ha llegado la factura al correo porfa,consulta_boleta
+por favor mi plan incluye roaming libre en sudamerica hoy dia,roaming_internacional
+disculpa como habilito los datos internacionales antes de volar porfa,roaming_internacional
+reclamo por cobro indebido en servicios adicionales porfa,reclamo_cobro
+buenas tardes pague la cuenta ayer y todavia me sale deuda al tiro,reclamo_cobro
+"necesito ayuda, viajo a argentina mañana como activo el roaming",roaming_internacional
+por favor no me funciona el roaming estando fuera de chile porfa,roaming_internacional
+disculpa necesito descargar la boleta con mi rut por favor,consulta_boleta
+hola quiero anular mi suscripcion con ustedes por favor,baja_servicio
+oye me cobraron doble este mes quiero un reembolso urgente,reclamo_cobro
+disculpa quiero anular mi suscripcion con ustedes por favor,baja_servicio
+hola viajo a argentina mañana como activo el roaming al tiro,roaming_internacional
+por favor voy a europa y necesito tener internet en el telefono al tiro,roaming_internacional
+hola necesito portar un numero a telcoaustral,cambio_plan
+"necesito ayuda, me cobraron doble este mes quiero un reembolso hoy dia",reclamo_cobro
+por favor se corta a cada rato la conexion del internet hogar al tiro,soporte_tecnico_internet
+disculpa necesito que venga un tecnico a revisar el modem hoy dia,soporte_tecnico_internet
+"necesito ayuda, cuanto me salio la cuenta del telefono este mes urgente",consulta_boleta
+"necesito ayuda, quiero renovar mi equipo y cambiar de plan gracias",cambio_plan
+disculpa estoy sin señal en el wifi desde la mañana por favor,soporte_tecnico_internet
+hola como habilito los datos internacionales antes de volar urgente,roaming_internacional
+solicito la desactivacion total de mis servicios,baja_servicio
+buenas tardes se me cayo el internet de la casa hace rato y no vuelve gracias,soporte_tecnico_internet
+oye quiero dar de baja el internet hogar ahora ya por favor,baja_servicio
+oye donde pago mi cuenta atrasada de internet porfa,consulta_boleta
+buenas tardes quiero desconocer un cobro en mi estado de cuenta porfa,reclamo_cobro
+oye aparece un cargo raro que yo nunca contrate porfa,reclamo_cobro
+por favor la fibra optica anda super lenta no carga nada al tiro,soporte_tecnico_internet
+buenas tardes necesito activar el servicio internacional en mi linea porfa,roaming_internacional
+"necesito ayuda, busco mejorar mi plan hogar con television porfa",cambio_plan
+"necesito ayuda, como habilito los datos internacionales antes de volar",roaming_internacional
+por favor el router tiene una luz roja prendida que hago al tiro,soporte_tecnico_internet
+oye pague la cuenta ayer y todavia me sale deuda,reclamo_cobro
+buenas tardes me estan cobrando de mas en la boleta de este mes al tiro,reclamo_cobro
+"necesito ayuda, quiero contratar un plan multimedia mas barato porfa",cambio_plan
+"necesito ayuda, necesito cancelar mi plan movil no lo voy a usar mas al tiro",baja_servicio
+buenas tardes como renuncio al servicio de telcoaustral,baja_servicio
+me interesa contratar internet fibra optica urgente,cambio_plan
+"necesito ayuda, me cobraron doble este mes quiero un reembolso porfa",reclamo_cobro
+oye quiero renovar mi equipo y cambiar de plan hoy dia,cambio_plan
+buenas tardes hola necesito ver mi boleta de este mes porfa por favor,consulta_boleta
+hola quiero terminar el contrato de fibra optica por favor,baja_servicio
+"necesito ayuda, no corresponde el monto de mi factura hubo un error urgente",reclamo_cobro
+por favor necesito que venga un tecnico a revisar el modem al tiro,soporte_tecnico_internet
+hola como subo los minutos y datos de mi plan actual hoy dia,cambio_plan
+disculpa se me cayo el internet de la casa hace rato y no vuelve porfa,soporte_tecnico_internet
+oye solicito la desactivacion total de mis servicios por favor,baja_servicio
+buenas tardes la fibra optica anda super lenta no carga nada gracias,soporte_tecnico_internet
+"necesito ayuda, como subo los minutos y datos de mi plan actual al tiro",cambio_plan
+quiero cambiarme a un plan con mas gigas hoy dia,cambio_plan
+"necesito ayuda, quiero dar de baja el internet hogar ahora ya hoy dia",baja_servicio
+me interesa contratar internet fibra optica,cambio_plan
+"necesito ayuda, dar de baja mi linea telefonica definitivamente gracias",baja_servicio
+buenas tardes quiero anular mi suscripcion con ustedes urgente,baja_servicio
+me estan cobrando de mas en la boleta de este mes hoy dia,reclamo_cobro
+disculpa la fibra optica anda super lenta no carga nada urgente,soporte_tecnico_internet
+oye el router tiene una luz roja prendida que hago,soporte_tecnico_internet
+hola quiero contratar un plan multimedia mas barato gracias,cambio_plan
+disculpa esta caida la señal de telcoaustral en mi sector porfa,soporte_tecnico_internet
+buenas tardes reclamo por cobro indebido en servicios adicionales porfa,reclamo_cobro
+oye me subieron el plan sin avisarme y me cobraron mas,reclamo_cobro
+hola me cobraron doble este mes quiero un reembolso al tiro,reclamo_cobro
+oye quiero desconocer un cobro en mi estado de cuenta porfa,reclamo_cobro
+"necesito ayuda, viajo a argentina mañana como activo el roaming al tiro",roaming_internacional
+"necesito ayuda, quiero anular mi suscripcion con ustedes al tiro",baja_servicio
+"necesito ayuda, precios de bolsas roaming para estados unidos urgente",roaming_internacional
+disculpa quiero anular mi suscripcion con ustedes hoy dia,baja_servicio
+"necesito ayuda, dar de baja mi linea telefonica definitivamente gracias",baja_servicio
+me estan cobrando de mas en la boleta de este mes gracias,reclamo_cobro
+oye cuanto me salio la cuenta del telefono este mes,consulta_boleta
+cuanto me salio la cuenta del telefono este mes hoy dia,consulta_boleta
+oye como habilito los datos internacionales antes de volar porfa,roaming_internacional
+cuanto sale la bolsa de datos para usar el celu en brasil al tiro,roaming_internacional
+buenas tardes dar de baja mi linea telefonica definitivamente hoy dia,baja_servicio
+por favor cuanto sale la bolsa de datos para usar el celu en brasil gracias,roaming_internacional
+buenas tardes donde pago mi cuenta atrasada de internet al tiro,consulta_boleta
+oye donde pago mi cuenta atrasada de internet por favor,consulta_boleta
+por favor esta caida la señal de telcoaustral en mi sector por favor,soporte_tecnico_internet
+disculpa no me ha llegado la factura al correo urgente,consulta_boleta
+hola necesito que venga un tecnico a revisar el modem urgente,soporte_tecnico_internet
+hola como habilito los datos internacionales antes de volar gracias,roaming_internacional
+por favor como subo los minutos y datos de mi plan actual urgente,cambio_plan
+buenas tardes como habilito los datos internacionales antes de volar gracias,roaming_internacional
+buenas tardes quiero terminar el contrato de fibra optica hoy dia,baja_servicio
+oye busco mejorar mi plan hogar con television urgente,cambio_plan
+oye no tengo red en el telefono ni datos moviles gracias,soporte_tecnico_internet
+buenas tardes hola necesito ver mi boleta de este mes porfa por favor,consulta_boleta
+"necesito ayuda, me interesa contratar internet fibra optica por favor",cambio_plan
+por favor me voy de la casa y necesito cortar el servicio porfa,baja_servicio
+disculpa quiero terminar el contrato de fibra optica gracias,baja_servicio
+por favor no corresponde el monto de mi factura hubo un error,reclamo_cobro
+buenas tardes cuanto sale la bolsa de datos para usar el celu en brasil al tiro,roaming_internacional
+"necesito ayuda, no me funciona el roaming estando fuera de chile hoy dia",roaming_internacional
+"necesito ayuda, como renuncio al servicio de telcoaustral gracias",baja_servicio
+oye dar de baja mi linea telefonica definitivamente urgente,baja_servicio
+me pueden mandar el detalle de lo que me cobraron en la boleta urgente,consulta_boleta
+hola quiero renovar mi equipo y cambiar de plan porfa,cambio_plan
+por favor no me funciona el roaming estando fuera de chile al tiro,roaming_internacional
+disculpa quiero terminar el contrato de fibra optica porfa,baja_servicio
+disculpa necesito descargar la boleta con mi rut,consulta_boleta
+buenas tardes me interesa contratar internet fibra optica al tiro,cambio_plan
+hola me interesa contratar internet fibra optica hoy dia,cambio_plan
+se me cayo el internet de la casa hace rato y no vuelve hoy dia,soporte_tecnico_internet
+buenas tardes me estan cobrando de mas en la boleta de este mes gracias,reclamo_cobro
+"necesito ayuda, como habilito los datos internacionales antes de volar gracias",roaming_internacional
+buenas tardes quiero anular mi suscripcion con ustedes por favor,baja_servicio
+buenas tardes la fibra optica anda super lenta no carga nada urgente,soporte_tecnico_internet
+buenas tardes el router tiene una luz roja prendida que hago gracias,soporte_tecnico_internet
+disculpa el router tiene una luz roja prendida que hago por favor,soporte_tecnico_internet
+"necesito ayuda, me pueden mandar el detalle de lo que me cobraron en la boleta",consulta_boleta
+necesito activar el servicio internacional en mi linea al tiro,roaming_internacional
+disculpa mi plan incluye roaming libre en sudamerica urgente,roaming_internacional
+buenas tardes cuanto debo en mi plan hogar porfa,consulta_boleta
+disculpa quiero saber la fecha de vencimiento de mi boleta por favor,consulta_boleta
+por favor me estan cobrando de mas en la boleta de este mes porfa,reclamo_cobro
+disculpa como renuncio al servicio de telcoaustral por favor,baja_servicio
+hola quiero renovar mi equipo y cambiar de plan al tiro,cambio_plan
+cuanto me salio la cuenta del telefono este mes hoy dia,consulta_boleta
+disculpa cuanto debo en mi plan hogar,consulta_boleta
+disculpa quiero anular mi suscripcion con ustedes por favor,baja_servicio
+por favor estoy sin señal en el wifi desde la mañana hoy dia,soporte_tecnico_internet
+"necesito ayuda, precios de bolsas roaming para estados unidos por favor",roaming_internacional
+oye cuanto sale la bolsa de datos para usar el celu en brasil hoy dia,roaming_internacional
+disculpa reclamo por cobro indebido en servicios adicionales por favor,reclamo_cobro
+me pueden mandar el detalle de lo que me cobraron en la boleta al tiro,consulta_boleta
+buenas tardes como renuncio al servicio de telcoaustral,baja_servicio
+disculpa hola necesito ver mi boleta de este mes porfa urgente,consulta_boleta
+como subo los minutos y datos de mi plan actual porfa,cambio_plan
+por favor hola necesito ver mi boleta de este mes porfa hoy dia,consulta_boleta
+disculpa cuanto sale la bolsa de datos para usar el celu en brasil al tiro,roaming_internacional
+disculpa no tengo red en el telefono ni datos moviles hoy dia,soporte_tecnico_internet
+hola necesito descargar la boleta con mi rut al tiro,consulta_boleta
+"necesito ayuda, no me funciona el roaming estando fuera de chile gracias",roaming_internacional
+oye quiero dar de baja el internet hogar ahora ya porfa,baja_servicio
+oye necesito activar el servicio internacional en mi linea porfa,roaming_internacional
+buenas tardes como renuncio al servicio de telcoaustral,baja_servicio
+buenas tardes donde pago mi cuenta atrasada de internet porfa,consulta_boleta
+por favor reclamo por cobro indebido en servicios adicionales porfa,reclamo_cobro
+necesito portar un numero a telcoaustral urgente,cambio_plan
+quiero anular mi suscripcion con ustedes gracias,baja_servicio
+disculpa la fibra optica anda super lenta no carga nada hoy dia,soporte_tecnico_internet
+por favor quiero terminar el contrato de fibra optica porfa,baja_servicio
+"necesito ayuda, donde pago mi cuenta atrasada de internet",consulta_boleta
+oye mi plan incluye roaming libre en sudamerica,roaming_internacional
+disculpa como subo los minutos y datos de mi plan actual,cambio_plan
+hola necesito activar el servicio internacional en mi linea hoy dia,roaming_internacional
+disculpa quiero contratar un plan multimedia mas barato gracias,cambio_plan
+oye aparece un cargo raro que yo nunca contrate hoy dia,reclamo_cobro
+"necesito ayuda, me pueden mandar el detalle de lo que me cobraron en la boleta porfa",consulta_boleta
+oye se corta a cada rato la conexion del internet hogar hoy dia,soporte_tecnico_internet
+disculpa dar de baja mi linea telefonica definitivamente,baja_servicio
+hola se corta a cada rato la conexion del internet hogar por favor,soporte_tecnico_internet
+por favor quiero contratar un plan multimedia mas barato hoy dia,cambio_plan
+disculpa necesito cancelar mi plan movil no lo voy a usar mas por favor,baja_servicio
+por favor busco mejorar mi plan hogar con television,cambio_plan
+oye busco mejorar mi plan hogar con television urgente,cambio_plan
+hola quiero anular mi suscripcion con ustedes hoy dia,baja_servicio
+oye quiero anular mi suscripcion con ustedes,baja_servicio
+por favor necesito que venga un tecnico a revisar el modem hoy dia,soporte_tecnico_internet
+por favor me interesa contratar internet fibra optica hoy dia,cambio_plan
+"necesito ayuda, me voy de la casa y necesito cortar el servicio gracias",baja_servicio
+disculpa hola necesito ver mi boleta de este mes porfa gracias,consulta_boleta
+"necesito ayuda, me cobraron doble este mes quiero un reembolso hoy dia",reclamo_cobro
+hola quiero desconocer un cobro en mi estado de cuenta al tiro,reclamo_cobro
+por favor cuanto me salio la cuenta del telefono este mes por favor,consulta_boleta
+"necesito ayuda, viajo a argentina mañana como activo el roaming hoy dia",roaming_internacional
+donde pago mi cuenta atrasada de internet porfa,consulta_boleta
+oye me subieron el plan sin avisarme y me cobraron mas urgente,reclamo_cobro
+oye como renuncio al servicio de telcoaustral por favor,baja_servicio
+por favor me voy de la casa y necesito cortar el servicio por favor,baja_servicio
+por favor hola necesito ver mi boleta de este mes porfa gracias,consulta_boleta
+quiero cambiarme a un plan con mas gigas urgente,cambio_plan
+"necesito ayuda, quiero desconocer un cobro en mi estado de cuenta hoy dia",reclamo_cobro
+"necesito ayuda, busco mejorar mi plan hogar con television porfa",cambio_plan
+"necesito ayuda, no corresponde el monto de mi factura hubo un error urgente",reclamo_cobro
+hola necesito que venga un tecnico a revisar el modem por favor,soporte_tecnico_internet
+hola voy a europa y necesito tener internet en el telefono por favor,roaming_internacional
+hola me pueden mandar el detalle de lo que me cobraron en la boleta urgente,consulta_boleta
+por favor cuanto debo en mi plan hogar al tiro,consulta_boleta
+cuanto me salio la cuenta del telefono este mes porfa,consulta_boleta
+"necesito ayuda, el router tiene una luz roja prendida que hago al tiro",soporte_tecnico_internet
+oye como subo los minutos y datos de mi plan actual por favor,cambio_plan
+precios de bolsas roaming para estados unidos,roaming_internacional
+por favor donde pago mi cuenta atrasada de internet porfa,consulta_boleta
+buenas tardes como renuncio al servicio de telcoaustral,baja_servicio
+hola necesito portar un numero a telcoaustral gracias,cambio_plan
+buenas tardes dar de baja mi linea telefonica definitivamente por favor,baja_servicio
+reclamo por cobro indebido en servicios adicionales hoy dia,reclamo_cobro
+buenas tardes hola necesito ver mi boleta de este mes porfa por favor,consulta_boleta
+oye me subieron el plan sin avisarme y me cobraron mas hoy dia,reclamo_cobro
+buenas tardes no tengo red en el telefono ni datos moviles al tiro,soporte_tecnico_internet
+"necesito ayuda, quiero saber la fecha de vencimiento de mi boleta urgente",consulta_boleta
+disculpa como renuncio al servicio de telcoaustral al tiro,baja_servicio
+disculpa cuanto sale la bolsa de datos para usar el celu en brasil urgente,roaming_internacional
+buenas tardes quiero contratar un plan multimedia mas barato urgente,cambio_plan
+"necesito ayuda, quiero saber la fecha de vencimiento de mi boleta hoy dia",consulta_boleta
+"necesito ayuda, no me ha llegado la factura al correo urgente",consulta_boleta
+oye me estan cobrando de mas en la boleta de este mes urgente,reclamo_cobro
+disculpa se me cayo el internet de la casa hace rato y no vuelve al tiro,soporte_tecnico_internet
+oye se me cayo el internet de la casa hace rato y no vuelve gracias,soporte_tecnico_internet
+oye como subo los minutos y datos de mi plan actual al tiro,cambio_plan
+oye precios de bolsas roaming para estados unidos,roaming_internacional
+buenas tardes quiero renovar mi equipo y cambiar de plan,cambio_plan
+disculpa no tengo red en el telefono ni datos moviles hoy dia,soporte_tecnico_internet
+quiero renovar mi equipo y cambiar de plan porfa,cambio_plan
+buenas tardes no corresponde el monto de mi factura hubo un error por favor,reclamo_cobro
+buenas tardes cuanto debo en mi plan hogar,consulta_boleta
+el router tiene una luz roja prendida que hago al tiro,soporte_tecnico_internet
+buenas tardes cuanto me salio la cuenta del telefono este mes al tiro,consulta_boleta
+por favor viajo a argentina mañana como activo el roaming porfa,roaming_internacional
+"necesito ayuda, estoy sin señal en el wifi desde la mañana por favor",soporte_tecnico_internet
+buenas tardes no me funciona el roaming estando fuera de chile gracias,roaming_internacional
+solicito la desactivacion total de mis servicios por favor,baja_servicio
+oye me pueden mandar el detalle de lo que me cobraron en la boleta porfa,consulta_boleta
+necesito activar el servicio internacional en mi linea por favor,roaming_internacional
+buenas tardes cuanto sale la bolsa de datos para usar el celu en brasil porfa,roaming_internacional
+"necesito ayuda, como renuncio al servicio de telcoaustral porfa",baja_servicio
+disculpa me cobraron doble este mes quiero un reembolso porfa,reclamo_cobro
+hola precios de bolsas roaming para estados unidos por favor,roaming_internacional
+hola pague la cuenta ayer y todavia me sale deuda porfa,reclamo_cobro
+disculpa busco mejorar mi plan hogar con television por favor,cambio_plan
+disculpa quiero terminar el contrato de fibra optica,baja_servicio
+no corresponde el monto de mi factura hubo un error,reclamo_cobro
+me interesa contratar internet fibra optica,cambio_plan
+buenas tardes quiero dar de baja el internet hogar ahora ya hoy dia,baja_servicio
+oye me subieron el plan sin avisarme y me cobraron mas gracias,reclamo_cobro
+disculpa donde pago mi cuenta atrasada de internet,consulta_boleta
+disculpa no me funciona el roaming estando fuera de chile gracias,roaming_internacional
+disculpa esta caida la señal de telcoaustral en mi sector por favor,soporte_tecnico_internet
+por favor reclamo por cobro indebido en servicios adicionales por favor,reclamo_cobro
+disculpa quiero anular mi suscripcion con ustedes al tiro,baja_servicio
+hola como subo los minutos y datos de mi plan actual por favor,cambio_plan
+disculpa necesito descargar la boleta con mi rut hoy dia,consulta_boleta
+hola necesito cancelar mi plan movil no lo voy a usar mas porfa,baja_servicio
+hola quiero cambiarme a un plan con mas gigas porfa,cambio_plan
+hola necesito portar un numero a telcoaustral porfa,cambio_plan
+buenas tardes dar de baja mi linea telefonica definitivamente porfa,baja_servicio
+no me ha llegado la factura al correo urgente,consulta_boleta
+oye pague la cuenta ayer y todavia me sale deuda por favor,reclamo_cobro
+buenas tardes no me funciona el roaming estando fuera de chile gracias,roaming_internacional
+oye necesito descargar la boleta con mi rut urgente,consulta_boleta
+por favor quiero anular mi suscripcion con ustedes al tiro,baja_servicio
+hola necesito portar un numero a telcoaustral urgente,cambio_plan
+"necesito ayuda, donde pago mi cuenta atrasada de internet gracias",consulta_boleta
+como habilito los datos internacionales antes de volar al tiro,roaming_internacional
+hola como habilito los datos internacionales antes de volar urgente,roaming_internacional
+oye necesito descargar la boleta con mi rut gracias,consulta_boleta
+buenas tardes me pueden mandar el detalle de lo que me cobraron en la boleta,consulta_boleta
+disculpa no corresponde el monto de mi factura hubo un error hoy dia,reclamo_cobro
+por favor quiero saber la fecha de vencimiento de mi boleta al tiro,consulta_boleta
+buenas tardes quiero cambiarme a un plan con mas gigas al tiro,cambio_plan
+"necesito ayuda, quiero dar de baja el internet hogar ahora ya hoy dia",baja_servicio
+pague la cuenta ayer y todavia me sale deuda porfa,reclamo_cobro
+"necesito ayuda, me pueden mandar el detalle de lo que me cobraron en la boleta porfa",consulta_boleta
+hola necesito descargar la boleta con mi rut hoy dia,consulta_boleta
+"necesito ayuda, como subo los minutos y datos de mi plan actual porfa",cambio_plan
+buenas tardes como renuncio al servicio de telcoaustral,baja_servicio
+"necesito ayuda, me voy de la casa y necesito cortar el servicio porfa",baja_servicio
+oye como habilito los datos internacionales antes de volar gracias,roaming_internacional
+hola esta caida la señal de telcoaustral en mi sector por favor,soporte_tecnico_internet
+hola cuanto me salio la cuenta del telefono este mes porfa,consulta_boleta
+oye la fibra optica anda super lenta no carga nada hoy dia,soporte_tecnico_internet
+buenas tardes no me funciona el roaming estando fuera de chile urgente,roaming_internacional
+hola me subieron el plan sin avisarme y me cobraron mas gracias,reclamo_cobro
+por favor no me ha llegado la factura al correo porfa,consulta_boleta
+por favor necesito cancelar mi plan movil no lo voy a usar mas gracias,baja_servicio
+viajo a argentina mañana como activo el roaming al tiro,roaming_internacional
+buenas tardes quiero dar de baja el internet hogar ahora ya por favor,baja_servicio
+"necesito ayuda, aparece un cargo raro que yo nunca contrate porfa",reclamo_cobro
+disculpa quiero cambiarme a un plan con mas gigas,cambio_plan
+hola el router tiene una luz roja prendida que hago al tiro,soporte_tecnico_internet
+necesito que venga un tecnico a revisar el modem,soporte_tecnico_internet
+oye no tengo red en el telefono ni datos moviles urgente,soporte_tecnico_internet
+hola quiero anular mi suscripcion con ustedes por favor,baja_servicio
+disculpa la fibra optica anda super lenta no carga nada al tiro,soporte_tecnico_internet
+buenas tardes me subieron el plan sin avisarme y me cobraron mas por favor,reclamo_cobro
+"necesito ayuda, solicito la desactivacion total de mis servicios gracias",baja_servicio
+hola estoy sin señal en el wifi desde la mañana hoy dia,soporte_tecnico_internet
+disculpa se corta a cada rato la conexion del internet hogar,soporte_tecnico_internet
+"necesito ayuda, quiero dar de baja el internet hogar ahora ya al tiro",baja_servicio
+buenas tardes quiero anular mi suscripcion con ustedes al tiro,baja_servicio
+hola reclamo por cobro indebido en servicios adicionales gracias,reclamo_cobro
+hola cuanto sale la bolsa de datos para usar el celu en brasil porfa,roaming_internacional
+buenas tardes me estan cobrando de mas en la boleta de este mes urgente,reclamo_cobro
+hola necesito portar un numero a telcoaustral hoy dia,cambio_plan
+cuanto me salio la cuenta del telefono este mes al tiro,consulta_boleta
+quiero contratar un plan multimedia mas barato porfa,cambio_plan
+necesito descargar la boleta con mi rut urgente,consulta_boleta
+hola esta caida la señal de telcoaustral en mi sector al tiro,soporte_tecnico_internet
+oye quiero contratar un plan multimedia mas barato gracias,cambio_plan
+"necesito ayuda, quiero desconocer un cobro en mi estado de cuenta por favor",reclamo_cobro
+hola voy a europa y necesito tener internet en el telefono al tiro,roaming_internacional
+necesito activar el servicio internacional en mi linea porfa,roaming_internacional
+hola aparece un cargo raro que yo nunca contrate urgente,reclamo_cobro
+oye pague la cuenta ayer y todavia me sale deuda porfa,reclamo_cobro
+"necesito ayuda, busco mejorar mi plan hogar con television",cambio_plan
+por favor se me cayo el internet de la casa hace rato y no vuelve al tiro,soporte_tecnico_internet
+disculpa quiero contratar un plan multimedia mas barato al tiro,cambio_plan
+hola necesito que venga un tecnico a revisar el modem hoy dia,soporte_tecnico_internet
+hola me interesa contratar internet fibra optica por favor,cambio_plan
+"necesito ayuda, no tengo red en el telefono ni datos moviles al tiro",soporte_tecnico_internet
+disculpa se me cayo el internet de la casa hace rato y no vuelve gracias,soporte_tecnico_internet
+oye estoy sin señal en el wifi desde la mañana por favor,soporte_tecnico_internet
+por favor precios de bolsas roaming para estados unidos por favor,roaming_internacional
+"necesito ayuda, estoy sin señal en el wifi desde la mañana por favor",soporte_tecnico_internet
+oye solicito la desactivacion total de mis servicios porfa,baja_servicio
+hola quiero saber la fecha de vencimiento de mi boleta hoy dia,consulta_boleta
+hola busco mejorar mi plan hogar con television hoy dia,cambio_plan
+por favor como habilito los datos internacionales antes de volar por favor,roaming_internacional
+hola quiero terminar el contrato de fibra optica por favor,baja_servicio
+disculpa me subieron el plan sin avisarme y me cobraron mas por favor,reclamo_cobro
+disculpa no me ha llegado la factura al correo hoy dia,consulta_boleta
+buenas tardes donde pago mi cuenta atrasada de internet gracias,consulta_boleta
+oye quiero cambiarme a un plan con mas gigas,cambio_plan
+hola me voy de la casa y necesito cortar el servicio,baja_servicio
+hola tienen alguna promo para subir los megas de la fibra gracias,cambio_plan
+quiero cambiarme a un plan con mas gigas por favor,cambio_plan
+oye voy a europa y necesito tener internet en el telefono,roaming_internacional
+disculpa no me funciona el roaming estando fuera de chile urgente,roaming_internacional
+me pueden mandar el detalle de lo que me cobraron en la boleta,consulta_boleta
+"necesito ayuda, quiero desconocer un cobro en mi estado de cuenta al tiro",reclamo_cobro
+hola como subo los minutos y datos de mi plan actual al tiro,cambio_plan
+disculpa quiero renovar mi equipo y cambiar de plan por favor,cambio_plan
+hola mi plan incluye roaming libre en sudamerica urgente,roaming_internacional
+buenas tardes necesito activar el servicio internacional en mi linea urgente,roaming_internacional
+"necesito ayuda, me voy de la casa y necesito cortar el servicio urgente",baja_servicio
+disculpa cuanto sale la bolsa de datos para usar el celu en brasil,roaming_internacional
+"necesito ayuda, me subieron el plan sin avisarme y me cobraron mas urgente",reclamo_cobro
+se me cayo el internet de la casa hace rato y no vuelve,soporte_tecnico_internet
+por favor pague la cuenta ayer y todavia me sale deuda porfa,reclamo_cobro
+por favor necesito que venga un tecnico a revisar el modem al tiro,soporte_tecnico_internet
+buenas tardes necesito cancelar mi plan movil no lo voy a usar mas porfa,baja_servicio
+por favor mi plan incluye roaming libre en sudamerica gracias,roaming_internacional
+necesito descargar la boleta con mi rut porfa,consulta_boleta
+me estan cobrando de mas en la boleta de este mes,reclamo_cobro
+hola esta caida la señal de telcoaustral en mi sector porfa,soporte_tecnico_internet
+buenas tardes cuanto debo en mi plan hogar,consulta_boleta
+"necesito ayuda, no corresponde el monto de mi factura hubo un error hoy dia",reclamo_cobro
+"necesito ayuda, necesito cancelar mi plan movil no lo voy a usar mas por favor",baja_servicio
+"necesito ayuda, necesito descargar la boleta con mi rut gracias",consulta_boleta
+"necesito ayuda, me voy de la casa y necesito cortar el servicio porfa",baja_servicio
+hola dar de baja mi linea telefonica definitivamente gracias,baja_servicio
+disculpa me interesa contratar internet fibra optica gracias,cambio_plan
+hola donde pago mi cuenta atrasada de internet,consulta_boleta
+disculpa no tengo red en el telefono ni datos moviles urgente,soporte_tecnico_internet
+oye me estan cobrando de mas en la boleta de este mes gracias,reclamo_cobro
+disculpa solicito la desactivacion total de mis servicios,baja_servicio
+hola me interesa contratar internet fibra optica al tiro,cambio_plan
+hola se me cayo el internet de la casa hace rato y no vuelve porfa,soporte_tecnico_internet
+buenas tardes quiero dar de baja el internet hogar ahora ya porfa,baja_servicio
+oye me cobraron doble este mes quiero un reembolso gracias,reclamo_cobro
+buenas tardes necesito descargar la boleta con mi rut al tiro,consulta_boleta
+pague la cuenta ayer y todavia me sale deuda por favor,reclamo_cobro
+oye el router tiene una luz roja prendida que hago gracias,soporte_tecnico_internet
+por favor me estan cobrando de mas en la boleta de este mes por favor,reclamo_cobro
+por favor quiero cambiarme a un plan con mas gigas hoy dia,cambio_plan
+cuanto debo en mi plan hogar al tiro,consulta_boleta
+buenas tardes necesito que venga un tecnico a revisar el modem al tiro,soporte_tecnico_internet
+buenas tardes como renuncio al servicio de telcoaustral urgente,baja_servicio
+oye cuanto me salio la cuenta del telefono este mes,consulta_boleta
+oye quiero desconocer un cobro en mi estado de cuenta hoy dia,reclamo_cobro
+busco mejorar mi plan hogar con television hoy dia,cambio_plan
+"necesito ayuda, como renuncio al servicio de telcoaustral hoy dia",baja_servicio
+"necesito ayuda, como habilito los datos internacionales antes de volar hoy dia",roaming_internacional
+"necesito ayuda, se corta a cada rato la conexion del internet hogar por favor",soporte_tecnico_internet
+disculpa estoy sin señal en el wifi desde la mañana gracias,soporte_tecnico_internet
+buenas tardes quiero renovar mi equipo y cambiar de plan por favor,cambio_plan
+oye no tengo red en el telefono ni datos moviles porfa,soporte_tecnico_internet
+donde pago mi cuenta atrasada de internet al tiro,consulta_boleta
+buenas tardes quiero anular mi suscripcion con ustedes,baja_servicio
+"necesito ayuda, me interesa contratar internet fibra optica al tiro",cambio_plan
+necesito que venga un tecnico a revisar el modem al tiro,soporte_tecnico_internet
+oye solicito la desactivacion total de mis servicios urgente,baja_servicio
+oye me interesa contratar internet fibra optica al tiro,cambio_plan
+me voy de la casa y necesito cortar el servicio,baja_servicio
+hola esta caida la señal de telcoaustral en mi sector por favor,soporte_tecnico_internet
+disculpa mi plan incluye roaming libre en sudamerica urgente,roaming_internacional
+quiero cambiarme a un plan con mas gigas,cambio_plan
+disculpa no me ha llegado la factura al correo gracias,consulta_boleta
+oye aparece un cargo raro que yo nunca contrate urgente,reclamo_cobro
+disculpa me interesa contratar internet fibra optica hoy dia,cambio_plan
+necesito que venga un tecnico a revisar el modem por favor,soporte_tecnico_internet
+buenas tardes quiero anular mi suscripcion con ustedes al tiro,baja_servicio
+disculpa quiero saber la fecha de vencimiento de mi boleta al tiro,consulta_boleta
+me subieron el plan sin avisarme y me cobraron mas urgente,reclamo_cobro
+disculpa mi plan incluye roaming libre en sudamerica al tiro,roaming_internacional
+oye me subieron el plan sin avisarme y me cobraron mas urgente,reclamo_cobro
+por favor tienen alguna promo para subir los megas de la fibra urgente,cambio_plan
+hola viajo a argentina mañana como activo el roaming gracias,roaming_internacional
+"necesito ayuda, pague la cuenta ayer y todavia me sale deuda al tiro",reclamo_cobro
+"necesito ayuda, necesito portar un numero a telcoaustral gracias",cambio_plan
+me interesa contratar internet fibra optica,cambio_plan
+disculpa esta caida la señal de telcoaustral en mi sector hoy dia,soporte_tecnico_internet
+disculpa solicito la desactivacion total de mis servicios al tiro,baja_servicio
+hola el router tiene una luz roja prendida que hago porfa,soporte_tecnico_internet
+me voy de la casa y necesito cortar el servicio gracias,baja_servicio
+estoy sin señal en el wifi desde la mañana gracias,soporte_tecnico_internet
+hola quiero contratar un plan multimedia mas barato por favor,cambio_plan
+dar de baja mi linea telefonica definitivamente urgente,baja_servicio
+disculpa necesito activar el servicio internacional en mi linea hoy dia,roaming_internacional
+me interesa contratar internet fibra optica gracias,cambio_plan
+me pueden mandar el detalle de lo que me cobraron en la boleta urgente,consulta_boleta
+disculpa necesito cancelar mi plan movil no lo voy a usar mas,baja_servicio
+disculpa el router tiene una luz roja prendida que hago al tiro,soporte_tecnico_internet
+"necesito ayuda, aparece un cargo raro que yo nunca contrate porfa",reclamo_cobro
+hola como habilito los datos internacionales antes de volar por favor,roaming_internacional
+por favor no tengo red en el telefono ni datos moviles urgente,soporte_tecnico_internet
+disculpa precios de bolsas roaming para estados unidos,roaming_internacional
+por favor quiero desconocer un cobro en mi estado de cuenta porfa,reclamo_cobro
+oye estoy sin señal en el wifi desde la mañana por favor,soporte_tecnico_internet
+precios de bolsas roaming para estados unidos gracias,roaming_internacional
+hola cuanto debo en mi plan hogar urgente,consulta_boleta
+me pueden mandar el detalle de lo que me cobraron en la boleta gracias,consulta_boleta
+por favor quiero saber la fecha de vencimiento de mi boleta urgente,consulta_boleta
+hola no tengo red en el telefono ni datos moviles gracias,soporte_tecnico_internet
+disculpa no corresponde el monto de mi factura hubo un error hoy dia,reclamo_cobro
+buenas tardes cuanto debo en mi plan hogar porfa,consulta_boleta
+cuanto sale la bolsa de datos para usar el celu en brasil gracias,roaming_internacional
+hola reclamo por cobro indebido en servicios adicionales porfa,reclamo_cobro
+oye necesito descargar la boleta con mi rut al tiro,consulta_boleta
+oye solicito la desactivacion total de mis servicios por favor,baja_servicio
+oye se me cayo el internet de la casa hace rato y no vuelve por favor,soporte_tecnico_internet
+disculpa quiero saber la fecha de vencimiento de mi boleta al tiro,consulta_boleta
+"necesito ayuda, viajo a argentina mañana como activo el roaming",roaming_internacional
+quiero cambiarme a un plan con mas gigas al tiro,cambio_plan
+"necesito ayuda, necesito que venga un tecnico a revisar el modem hoy dia",soporte_tecnico_internet
+oye tienen alguna promo para subir los megas de la fibra por favor,cambio_plan
+buenas tardes precios de bolsas roaming para estados unidos hoy dia,roaming_internacional
+por favor me estan cobrando de mas en la boleta de este mes urgente,reclamo_cobro
+por favor no tengo red en el telefono ni datos moviles gracias,soporte_tecnico_internet
+disculpa necesito descargar la boleta con mi rut por favor,consulta_boleta
+"necesito ayuda, solicito la desactivacion total de mis servicios al tiro",baja_servicio
+disculpa cuanto debo en mi plan hogar gracias,consulta_boleta
+por favor necesito cancelar mi plan movil no lo voy a usar mas hoy dia,baja_servicio
+oye quiero anular mi suscripcion con ustedes al tiro,baja_servicio
+como subo los minutos y datos de mi plan actual por favor,cambio_plan
+hola me pueden mandar el detalle de lo que me cobraron en la boleta urgente,consulta_boleta
+hola solicito la desactivacion total de mis servicios por favor,baja_servicio
+buenas tardes donde pago mi cuenta atrasada de internet al tiro,consulta_boleta
+oye quiero saber la fecha de vencimiento de mi boleta por favor,consulta_boleta
+oye se corta a cada rato la conexion del internet hogar,soporte_tecnico_internet
+por favor viajo a argentina mañana como activo el roaming gracias,roaming_internacional
+"necesito ayuda, me voy de la casa y necesito cortar el servicio por favor",baja_servicio
+por favor voy a europa y necesito tener internet en el telefono hoy dia,roaming_internacional
+precios de bolsas roaming para estados unidos porfa,roaming_internacional
+hola busco mejorar mi plan hogar con television hoy dia,cambio_plan
+buenas tardes me pueden mandar el detalle de lo que me cobraron en la boleta por favor,consulta_boleta
+hola no me funciona el roaming estando fuera de chile al tiro,roaming_internacional
+solicito la desactivacion total de mis servicios por favor,baja_servicio
+"necesito ayuda, mi plan incluye roaming libre en sudamerica",roaming_internacional
+buenas tardes pague la cuenta ayer y todavia me sale deuda urgente,reclamo_cobro
+buenas tardes no tengo red en el telefono ni datos moviles al tiro,soporte_tecnico_internet
+hola no tengo red en el telefono ni datos moviles hoy dia,soporte_tecnico_internet
+oye cuanto sale la bolsa de datos para usar el celu en brasil gracias,roaming_internacional
+"necesito ayuda, me voy de la casa y necesito cortar el servicio",baja_servicio
+disculpa aparece un cargo raro que yo nunca contrate por favor,reclamo_cobro
+oye me interesa contratar internet fibra optica porfa,cambio_plan
+hola esta caida la señal de telcoaustral en mi sector al tiro,soporte_tecnico_internet
+por favor hola necesito ver mi boleta de este mes porfa,consulta_boleta
+por favor me voy de la casa y necesito cortar el servicio gracias,baja_servicio
+buenas tardes necesito activar el servicio internacional en mi linea,roaming_internacional
+por favor quiero contratar un plan multimedia mas barato gracias,cambio_plan
+por favor quiero renovar mi equipo y cambiar de plan al tiro,cambio_plan
+hola como renuncio al servicio de telcoaustral porfa,baja_servicio
+busco mejorar mi plan hogar con television al tiro,cambio_plan
+buenas tardes esta caida la señal de telcoaustral en mi sector,soporte_tecnico_internet
+por favor precios de bolsas roaming para estados unidos porfa,roaming_internacional
+"necesito ayuda, necesito que venga un tecnico a revisar el modem al tiro",soporte_tecnico_internet
+disculpa dar de baja mi linea telefonica definitivamente por favor,baja_servicio
+por favor voy a europa y necesito tener internet en el telefono al tiro,roaming_internacional
+buenas tardes me cobraron doble este mes quiero un reembolso porfa,reclamo_cobro
+disculpa cuanto debo en mi plan hogar gracias,consulta_boleta
+por favor no tengo red en el telefono ni datos moviles al tiro,soporte_tecnico_internet
+oye busco mejorar mi plan hogar con television gracias,cambio_plan
+buenas tardes voy a europa y necesito tener internet en el telefono porfa,roaming_internacional
+"necesito ayuda, me estan cobrando de mas en la boleta de este mes urgente",reclamo_cobro
+por favor me interesa contratar internet fibra optica urgente,cambio_plan
+"necesito ayuda, voy a europa y necesito tener internet en el telefono gracias",roaming_internacional
+buenas tardes cuanto debo en mi plan hogar gracias,consulta_boleta
+buenas tardes solicito la desactivacion total de mis servicios urgente,baja_servicio
+por favor no me funciona el roaming estando fuera de chile al tiro,roaming_internacional
+por favor hola necesito ver mi boleta de este mes porfa porfa,consulta_boleta
+buenas tardes se me cayo el internet de la casa hace rato y no vuelve urgente,soporte_tecnico_internet
+oye estoy sin señal en el wifi desde la mañana por favor,soporte_tecnico_internet
+"necesito ayuda, esta caida la señal de telcoaustral en mi sector urgente",soporte_tecnico_internet
+por favor aparece un cargo raro que yo nunca contrate gracias,reclamo_cobro
+oye quiero renovar mi equipo y cambiar de plan hoy dia,cambio_plan
+disculpa donde pago mi cuenta atrasada de internet por favor,consulta_boleta
+oye cuanto debo en mi plan hogar porfa,consulta_boleta
+disculpa solicito la desactivacion total de mis servicios urgente,baja_servicio
+voy a europa y necesito tener internet en el telefono por favor,roaming_internacional
+disculpa me subieron el plan sin avisarme y me cobraron mas al tiro,reclamo_cobro
+"necesito ayuda, la fibra optica anda super lenta no carga nada hoy dia",soporte_tecnico_internet
+como renuncio al servicio de telcoaustral por favor,baja_servicio
+necesito que venga un tecnico a revisar el modem urgente,soporte_tecnico_internet
+oye no tengo red en el telefono ni datos moviles gracias,soporte_tecnico_internet
+por favor me voy de la casa y necesito cortar el servicio por favor,baja_servicio
+oye no me ha llegado la factura al correo urgente,consulta_boleta
+disculpa aparece un cargo raro que yo nunca contrate urgente,reclamo_cobro
+disculpa me cobraron doble este mes quiero un reembolso,reclamo_cobro
+buenas tardes se me cayo el internet de la casa hace rato y no vuelve urgente,soporte_tecnico_internet
+cuanto debo en mi plan hogar hoy dia,consulta_boleta
+hola dar de baja mi linea telefonica definitivamente gracias,baja_servicio
+dar de baja mi linea telefonica definitivamente gracias,baja_servicio
+"necesito ayuda, no tengo red en el telefono ni datos moviles por favor",soporte_tecnico_internet
+por favor estoy sin señal en el wifi desde la mañana hoy dia,soporte_tecnico_internet
+"necesito ayuda, me pueden mandar el detalle de lo que me cobraron en la boleta gracias",consulta_boleta
+"necesito ayuda, mi plan incluye roaming libre en sudamerica",roaming_internacional
+oye no me ha llegado la factura al correo urgente,consulta_boleta
+me subieron el plan sin avisarme y me cobraron mas al tiro,reclamo_cobro
+disculpa me subieron el plan sin avisarme y me cobraron mas al tiro,reclamo_cobro
+disculpa me cobraron doble este mes quiero un reembolso porfa,reclamo_cobro
+"necesito ayuda, como subo los minutos y datos de mi plan actual al tiro",cambio_plan
+disculpa cuanto sale la bolsa de datos para usar el celu en brasil al tiro,roaming_internacional
+oye donde pago mi cuenta atrasada de internet hoy dia,consulta_boleta
+disculpa tienen alguna promo para subir los megas de la fibra gracias,cambio_plan
+voy a europa y necesito tener internet en el telefono gracias,roaming_internacional
+oye la fibra optica anda super lenta no carga nada porfa,soporte_tecnico_internet
+buenas tardes voy a europa y necesito tener internet en el telefono,roaming_internacional
+hola necesito portar un numero a telcoaustral gracias,cambio_plan
+buenas tardes me estan cobrando de mas en la boleta de este mes urgente,reclamo_cobro
+buenas tardes me estan cobrando de mas en la boleta de este mes hoy dia,reclamo_cobro
+oye necesito que venga un tecnico a revisar el modem,soporte_tecnico_internet
+por favor quiero dar de baja el internet hogar ahora ya gracias,baja_servicio
+disculpa quiero desconocer un cobro en mi estado de cuenta hoy dia,reclamo_cobro
+disculpa quiero desconocer un cobro en mi estado de cuenta porfa,reclamo_cobro
+disculpa solicito la desactivacion total de mis servicios porfa,baja_servicio
+"necesito ayuda, no corresponde el monto de mi factura hubo un error hoy dia",reclamo_cobro
+buenas tardes pague la cuenta ayer y todavia me sale deuda gracias,reclamo_cobro
+hola voy a europa y necesito tener internet en el telefono porfa,roaming_internacional
+como renuncio al servicio de telcoaustral porfa,baja_servicio
+oye necesito descargar la boleta con mi rut hoy dia,consulta_boleta
+por favor donde pago mi cuenta atrasada de internet,consulta_boleta
+hola precios de bolsas roaming para estados unidos al tiro,roaming_internacional
+reclamo por cobro indebido en servicios adicionales urgente,reclamo_cobro
+hola no corresponde el monto de mi factura hubo un error gracias,reclamo_cobro
+hola precios de bolsas roaming para estados unidos al tiro,roaming_internacional
+hola me subieron el plan sin avisarme y me cobraron mas al tiro,reclamo_cobro
+oye reclamo por cobro indebido en servicios adicionales,reclamo_cobro
+oye no tengo red en el telefono ni datos moviles por favor,soporte_tecnico_internet
+oye quiero renovar mi equipo y cambiar de plan por favor,cambio_plan
+oye quiero desconocer un cobro en mi estado de cuenta hoy dia,reclamo_cobro
+por favor viajo a argentina mañana como activo el roaming urgente,roaming_internacional
+hola dar de baja mi linea telefonica definitivamente gracias,baja_servicio
+disculpa me estan cobrando de mas en la boleta de este mes por favor,reclamo_cobro
+oye quiero contratar un plan multimedia mas barato gracias,cambio_plan
+mi plan incluye roaming libre en sudamerica por favor,roaming_internacional
+hola tienen alguna promo para subir los megas de la fibra al tiro,cambio_plan
+por favor necesito descargar la boleta con mi rut urgente,consulta_boleta
+disculpa voy a europa y necesito tener internet en el telefono porfa,roaming_internacional
+oye busco mejorar mi plan hogar con television por favor,cambio_plan
+por favor pague la cuenta ayer y todavia me sale deuda al tiro,reclamo_cobro
+por favor tienen alguna promo para subir los megas de la fibra al tiro,cambio_plan
+"necesito ayuda, viajo a argentina mañana como activo el roaming hoy dia",roaming_internacional
+oye hola necesito ver mi boleta de este mes porfa,consulta_boleta
+oye estoy sin señal en el wifi desde la mañana porfa,soporte_tecnico_internet
+me pueden mandar el detalle de lo que me cobraron en la boleta por favor,consulta_boleta
+oye busco mejorar mi plan hogar con television urgente,cambio_plan
+hola me voy de la casa y necesito cortar el servicio gracias,baja_servicio
+disculpa necesito que venga un tecnico a revisar el modem gracias,soporte_tecnico_internet
+disculpa quiero saber la fecha de vencimiento de mi boleta por favor,consulta_boleta
+buenas tardes quiero renovar mi equipo y cambiar de plan gracias,cambio_plan
+oye quiero anular mi suscripcion con ustedes,baja_servicio
+hola se corta a cada rato la conexion del internet hogar hoy dia,soporte_tecnico_internet
+disculpa necesito activar el servicio internacional en mi linea porfa,roaming_internacional
+como renuncio al servicio de telcoaustral,baja_servicio
+buenas tardes esta caida la señal de telcoaustral en mi sector porfa,soporte_tecnico_internet
+"necesito ayuda, necesito activar el servicio internacional en mi linea gracias",roaming_internacional
+buenas tardes dar de baja mi linea telefonica definitivamente hoy dia,baja_servicio
+tienen alguna promo para subir los megas de la fibra al tiro,cambio_plan
+buenas tardes me subieron el plan sin avisarme y me cobraron mas hoy dia,reclamo_cobro
+tienen alguna promo para subir los megas de la fibra urgente,cambio_plan
+hola me cobraron doble este mes quiero un reembolso hoy dia,reclamo_cobro
+oye no tengo red en el telefono ni datos moviles al tiro,soporte_tecnico_internet
+disculpa cuanto me salio la cuenta del telefono este mes,consulta_boleta
+oye solicito la desactivacion total de mis servicios,baja_servicio
+disculpa necesito descargar la boleta con mi rut gracias,consulta_boleta
+"necesito ayuda, quiero contratar un plan multimedia mas barato gracias",cambio_plan
+buenas tardes como habilito los datos internacionales antes de volar por favor,roaming_internacional
+buenas tardes necesito cancelar mi plan movil no lo voy a usar mas,baja_servicio
+hola se corta a cada rato la conexion del internet hogar porfa,soporte_tecnico_internet
+"necesito ayuda, aparece un cargo raro que yo nunca contrate porfa",reclamo_cobro
+busco mejorar mi plan hogar con television,cambio_plan
+disculpa voy a europa y necesito tener internet en el telefono porfa,roaming_internacional
+"necesito ayuda, no corresponde el monto de mi factura hubo un error hoy dia",reclamo_cobro
+"necesito ayuda, voy a europa y necesito tener internet en el telefono por favor",roaming_internacional
+oye necesito activar el servicio internacional en mi linea por favor,roaming_internacional
+por favor necesito portar un numero a telcoaustral gracias,cambio_plan
+"necesito ayuda, quiero terminar el contrato de fibra optica por favor",baja_servicio
+buenas tardes cuanto me salio la cuenta del telefono este mes porfa,consulta_boleta
+esta caida la señal de telcoaustral en mi sector porfa,soporte_tecnico_internet
+disculpa me pueden mandar el detalle de lo que me cobraron en la boleta,consulta_boleta
+disculpa viajo a argentina mañana como activo el roaming gracias,roaming_internacional
+"necesito ayuda, me interesa contratar internet fibra optica porfa",cambio_plan
+"necesito ayuda, se corta a cada rato la conexion del internet hogar por favor",soporte_tecnico_internet
+como subo los minutos y datos de mi plan actual al tiro,cambio_plan
+no me funciona el roaming estando fuera de chile urgente,roaming_internacional
+buenas tardes necesito activar el servicio internacional en mi linea,roaming_internacional
+oye aparece un cargo raro que yo nunca contrate,reclamo_cobro
+aparece un cargo raro que yo nunca contrate urgente,reclamo_cobro
+"necesito ayuda, voy a europa y necesito tener internet en el telefono porfa",roaming_internacional
+por favor no tengo red en el telefono ni datos moviles al tiro,soporte_tecnico_internet
+hola me interesa contratar internet fibra optica al tiro,cambio_plan
+oye necesito activar el servicio internacional en mi linea por favor,roaming_internacional
+"necesito ayuda, me pueden mandar el detalle de lo que me cobraron en la boleta por favor",consulta_boleta
+buenas tardes me cobraron doble este mes quiero un reembolso por favor,reclamo_cobro
+por favor como renuncio al servicio de telcoaustral porfa,baja_servicio
+"necesito ayuda, no corresponde el monto de mi factura hubo un error porfa",reclamo_cobro
+disculpa como renuncio al servicio de telcoaustral porfa,baja_servicio
+oye no me ha llegado la factura al correo porfa,consulta_boleta
+oye dar de baja mi linea telefonica definitivamente urgente,baja_servicio
+hola reclamo por cobro indebido en servicios adicionales al tiro,reclamo_cobro
+oye me voy de la casa y necesito cortar el servicio por favor,baja_servicio
+"necesito ayuda, mi plan incluye roaming libre en sudamerica porfa",roaming_internacional
+buenas tardes me pueden mandar el detalle de lo que me cobraron en la boleta,consulta_boleta
+me interesa contratar internet fibra optica por favor,cambio_plan
+"necesito ayuda, busco mejorar mi plan hogar con television",cambio_plan
+buenas tardes quiero contratar un plan multimedia mas barato por favor,cambio_plan
+no me ha llegado la factura al correo hoy dia,consulta_boleta
+buenas tardes se corta a cada rato la conexion del internet hogar por favor,soporte_tecnico_internet
+disculpa pague la cuenta ayer y todavia me sale deuda urgente,reclamo_cobro
+necesito que venga un tecnico a revisar el modem,soporte_tecnico_internet
+"necesito ayuda, quiero renovar mi equipo y cambiar de plan gracias",cambio_plan
+buenas tardes no me ha llegado la factura al correo urgente,consulta_boleta
+buenas tardes cuanto me salio la cuenta del telefono este mes por favor,consulta_boleta
+buenas tardes me pueden mandar el detalle de lo que me cobraron en la boleta,consulta_boleta
+hola solicito la desactivacion total de mis servicios hoy dia,baja_servicio
+solicito la desactivacion total de mis servicios gracias,baja_servicio
+tienen alguna promo para subir los megas de la fibra hoy dia,cambio_plan
+"necesito ayuda, me pueden mandar el detalle de lo que me cobraron en la boleta urgente",consulta_boleta
+disculpa aparece un cargo raro que yo nunca contrate porfa,reclamo_cobro
+hola aparece un cargo raro que yo nunca contrate gracias,reclamo_cobro
+buenas tardes mi plan incluye roaming libre en sudamerica urgente,roaming_internacional
+disculpa quiero saber la fecha de vencimiento de mi boleta al tiro,consulta_boleta
+hola quiero dar de baja el internet hogar ahora ya hoy dia,baja_servicio
+"necesito ayuda, como renuncio al servicio de telcoaustral gracias",baja_servicio
+por favor quiero contratar un plan multimedia mas barato hoy dia,cambio_plan
+por favor quiero contratar un plan multimedia mas barato gracias,cambio_plan
+por favor el router tiene una luz roja prendida que hago urgente,soporte_tecnico_internet
+hola pague la cuenta ayer y todavia me sale deuda hoy dia,reclamo_cobro
+como habilito los datos internacionales antes de volar porfa,roaming_internacional
+"necesito ayuda, quiero renovar mi equipo y cambiar de plan al tiro",cambio_plan
+buenas tardes necesito descargar la boleta con mi rut al tiro,consulta_boleta
+hola necesito ver mi boleta de este mes porfa gracias,consulta_boleta
+"necesito ayuda, me estan cobrando de mas en la boleta de este mes urgente",reclamo_cobro
+oye el router tiene una luz roja prendida que hago por favor,soporte_tecnico_internet
+por favor aparece un cargo raro que yo nunca contrate al tiro,reclamo_cobro
+oye necesito descargar la boleta con mi rut,consulta_boleta
+hola dar de baja mi linea telefonica definitivamente urgente,baja_servicio
+"necesito ayuda, me subieron el plan sin avisarme y me cobraron mas hoy dia",reclamo_cobro
+hola no corresponde el monto de mi factura hubo un error,reclamo_cobro
+buenas tardes tienen alguna promo para subir los megas de la fibra al tiro,cambio_plan
+disculpa busco mejorar mi plan hogar con television gracias,cambio_plan
+disculpa cuanto me salio la cuenta del telefono este mes urgente,consulta_boleta
+"necesito ayuda, se corta a cada rato la conexion del internet hogar",soporte_tecnico_internet
+buenas tardes se me cayo el internet de la casa hace rato y no vuelve gracias,soporte_tecnico_internet
+hola esta caida la señal de telcoaustral en mi sector al tiro,soporte_tecnico_internet
+por favor cuanto debo en mi plan hogar porfa,consulta_boleta
+"necesito ayuda, dar de baja mi linea telefonica definitivamente urgente",baja_servicio
+por favor quiero cambiarme a un plan con mas gigas urgente,cambio_plan
+disculpa quiero contratar un plan multimedia mas barato al tiro,cambio_plan
+oye se corta a cada rato la conexion del internet hogar hoy dia,soporte_tecnico_internet
+oye solicito la desactivacion total de mis servicios urgente,baja_servicio
+hola se corta a cada rato la conexion del internet hogar,soporte_tecnico_internet
+hola quiero cambiarme a un plan con mas gigas al tiro,cambio_plan
+disculpa quiero terminar el contrato de fibra optica,baja_servicio
+por favor me voy de la casa y necesito cortar el servicio al tiro,baja_servicio
+disculpa necesito cancelar mi plan movil no lo voy a usar mas gracias,baja_servicio
+oye quiero dar de baja el internet hogar ahora ya al tiro,baja_servicio
+disculpa precios de bolsas roaming para estados unidos urgente,roaming_internacional
+hola quiero terminar el contrato de fibra optica al tiro,baja_servicio
+buenas tardes no me funciona el roaming estando fuera de chile al tiro,roaming_internacional
+"necesito ayuda, solicito la desactivacion total de mis servicios por favor",baja_servicio
+buenas tardes cuanto debo en mi plan hogar urgente,consulta_boleta
+por favor la fibra optica anda super lenta no carga nada porfa,soporte_tecnico_internet
+buenas tardes necesito que venga un tecnico a revisar el modem,soporte_tecnico_internet
+por favor necesito que venga un tecnico a revisar el modem por favor,soporte_tecnico_internet
+dar de baja mi linea telefonica definitivamente,baja_servicio
+por favor cuanto debo en mi plan hogar hoy dia,consulta_boleta
+hola estoy sin señal en el wifi desde la mañana al tiro,soporte_tecnico_internet
+"necesito ayuda, me estan cobrando de mas en la boleta de este mes gracias",reclamo_cobro
+hola esta caida la señal de telcoaustral en mi sector porfa,soporte_tecnico_internet
+disculpa me cobraron doble este mes quiero un reembolso gracias,reclamo_cobro
+"necesito ayuda, se me cayo el internet de la casa hace rato y no vuelve al tiro",soporte_tecnico_internet
+la fibra optica anda super lenta no carga nada urgente,soporte_tecnico_internet
+necesito activar el servicio internacional en mi linea hoy dia,roaming_internacional
+por favor necesito descargar la boleta con mi rut hoy dia,consulta_boleta
+tienen alguna promo para subir los megas de la fibra gracias,cambio_plan
+disculpa se corta a cada rato la conexion del internet hogar gracias,soporte_tecnico_internet
+la fibra optica anda super lenta no carga nada urgente,soporte_tecnico_internet
+oye cuanto sale la bolsa de datos para usar el celu en brasil al tiro,roaming_internacional
+no me ha llegado la factura al correo porfa,consulta_boleta
+precios de bolsas roaming para estados unidos gracias,roaming_internacional
+buenas tardes no corresponde el monto de mi factura hubo un error hoy dia,reclamo_cobro
+por favor quiero saber la fecha de vencimiento de mi boleta,consulta_boleta
+tienen alguna promo para subir los megas de la fibra hoy dia,cambio_plan
+me subieron el plan sin avisarme y me cobraron mas urgente,reclamo_cobro
+oye busco mejorar mi plan hogar con television al tiro,cambio_plan
+hola mi plan incluye roaming libre en sudamerica gracias,roaming_internacional
+quiero desconocer un cobro en mi estado de cuenta al tiro,reclamo_cobro
+buenas tardes quiero saber la fecha de vencimiento de mi boleta por favor,consulta_boleta
+oye como subo los minutos y datos de mi plan actual urgente,cambio_plan
+"necesito ayuda, viajo a argentina mañana como activo el roaming",roaming_internacional
+disculpa como habilito los datos internacionales antes de volar urgente,roaming_internacional
+buenas tardes precios de bolsas roaming para estados unidos porfa,roaming_internacional
+por favor como habilito los datos internacionales antes de volar gracias,roaming_internacional
+buenas tardes cuanto me salio la cuenta del telefono este mes urgente,consulta_boleta
+buenas tardes quiero contratar un plan multimedia mas barato hoy dia,cambio_plan
+cuanto debo en mi plan hogar hoy dia,consulta_boleta
+"necesito ayuda, me estan cobrando de mas en la boleta de este mes",reclamo_cobro
+buenas tardes voy a europa y necesito tener internet en el telefono hoy dia,roaming_internacional
+hola donde pago mi cuenta atrasada de internet urgente,consulta_boleta
+"necesito ayuda, mi plan incluye roaming libre en sudamerica gracias",roaming_internacional
+precios de bolsas roaming para estados unidos porfa,roaming_internacional
+disculpa quiero saber la fecha de vencimiento de mi boleta porfa,consulta_boleta
+estoy sin señal en el wifi desde la mañana gracias,soporte_tecnico_internet
+por favor estoy sin señal en el wifi desde la mañana porfa,soporte_tecnico_internet
+hola esta caida la señal de telcoaustral en mi sector por favor,soporte_tecnico_internet
+oye no tengo red en el telefono ni datos moviles gracias,soporte_tecnico_internet
+"necesito ayuda, no tengo red en el telefono ni datos moviles hoy dia",soporte_tecnico_internet
+por favor no corresponde el monto de mi factura hubo un error,reclamo_cobro
+"necesito ayuda, no tengo red en el telefono ni datos moviles gracias",soporte_tecnico_internet
+oye esta caida la señal de telcoaustral en mi sector hoy dia,soporte_tecnico_internet
+mi plan incluye roaming libre en sudamerica,roaming_internacional
+por favor quiero saber la fecha de vencimiento de mi boleta al tiro,consulta_boleta
+"necesito ayuda, aparece un cargo raro que yo nunca contrate urgente",reclamo_cobro
+disculpa se corta a cada rato la conexion del internet hogar gracias,soporte_tecnico_internet
+necesito descargar la boleta con mi rut,consulta_boleta
+disculpa mi plan incluye roaming libre en sudamerica gracias,roaming_internacional
+busco mejorar mi plan hogar con television porfa,cambio_plan
+"necesito ayuda, quiero renovar mi equipo y cambiar de plan urgente",cambio_plan
+buenas tardes reclamo por cobro indebido en servicios adicionales al tiro,reclamo_cobro

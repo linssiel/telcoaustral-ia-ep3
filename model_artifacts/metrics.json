@@ -1,0 +1,12 @@
+{
+  "accuracy": 1.0,
+  "precision_weighted": 1.0,
+  "recall_weighted": 1.0,
+  "f1_score_weighted": 1.0,
+  "test_samples": 240,
+  "hyperparameters": {
+    "vectorizer": "TfidfVectorizer(ngram_range=(1, 2), max_features=3000)",
+    "classifier": "LogisticRegression(C=2.0, max_iter=500, random_state=42)",
+    "confidence_threshold": 0.75
+  }
+}

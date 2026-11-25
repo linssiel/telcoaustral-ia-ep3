@@ -1,0 +1,16 @@
+scikit-learn
+pandas
+numpy
+joblib
+boto3
+sagemaker
+fastapi
+uvicorn
+pydantic
+pika
+streamlit
+requests
+pytest
+httpx
+locust
+slowapi
